@@ -1,50 +1,45 @@
-# from selenium.webdriver.common.by import By
-# from selenium.webdriver.common.keys import Keys
-
-# class HomePage:
-
-#     SEARCH_BOX = (By.NAME, "q")
-
-#     def __init__(self, driver):
-#         self.driver = driver
-
-#     def open(self):
-#         self.driver.get("https://www.daraz.com.bd/")
-
-#     def search_product(self, product):
-#         self.driver.find_element(*self.SEARCH_BOX).send_keys(product)
-#         self.driver.find_element(*self.SEARCH_BOX).send_keys(Keys.ENTER)
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from utilities.read_properties import ReadConfig
+from pages.base_page import BasePage
 
-class HomePage:
+
+class HomePage(BasePage):
 
     SEARCH_BOX = (By.NAME, "q")
     SEARCH_BUTTON = (By.CLASS_NAME, "search-box__button--1oH7")
     FIRST_PRODUCT = (By.CSS_SELECTOR, "div[data-qa-locator='product-item'] a")
 
     def __init__(self, driver):
-        self.driver = driver
+        super().__init__(driver)
 
+    # Open Daraz Website
     def open(self):
-        self.driver.get("https://www.daraz.com.bd/")
+        self.driver.get(ReadConfig.get_url())
 
+    # Search Product
     def search_product(self, product):
-        WebDriverWait(self.driver, 3).until(
-            EC.visibility_of_element_located(self.SEARCH_BOX)
-        )
-        self.driver.find_element(*self.SEARCH_BOX).send_keys(product)
+        self.type(self.SEARCH_BOX, product)
 
+    # Click Search Button
     def click_search(self):
-        self.driver.find_element(*self.SEARCH_BUTTON).click()
+        self.click(self.SEARCH_BUTTON)
 
+    # Click First Product
+    def click_first_product(self):
+        self.click(self.FIRST_PRODUCT)
+
+    # Get Search Page Title
     def get_title(self):
         return self.driver.title
 
-    def click_first_product(self):
-        WebDriverWait(self.driver, 10).until(
-            EC.element_to_be_clickable(self.FIRST_PRODUCT)
-        )
-        self.driver.find_element(*self.FIRST_PRODUCT).click()
+    # Get Product Page Title
+    def get_product_title(self):
+        return self.driver.title
+
+    # Get Current URL
+    def get_current_url(self):
+        return self.driver.current_url
+
+    # Take Screenshot
+    def take_screenshot(self):
+        self.driver.save_screenshot("screenshots/product.png")
