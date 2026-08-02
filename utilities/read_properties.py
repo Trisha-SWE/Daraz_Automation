@@ -1,19 +1,23 @@
-import configparser
-
-config = configparser.RawConfigParser()
-config.read("./config/config.ini")
+from configparser import ConfigParser
 
 
 class ReadConfig:
 
+    config = ConfigParser()
+    config.read("config/config.ini")
+
     @staticmethod
     def get_url():
-        return config.get("common info", "baseURL")
+        return ReadConfig.config.get("common", "baseURL")
 
     @staticmethod
     def get_product():
-        return config.get("common info", "productName")
+        return ReadConfig.config.get("common", "product")
 
     @staticmethod
-    def get_browser():
-        return config.get("common info", "browser")
+    def get_email():
+        return ReadConfig.config.get("common", "email")
+
+    @staticmethod
+    def get_password():
+        return ReadConfig.config.get("common", "password")
