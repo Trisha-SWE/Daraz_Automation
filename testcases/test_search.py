@@ -2,6 +2,7 @@ from pages.home_page import HomePage
 from utilities.read_properties import ReadConfig
 from utilities.logger import LogGen
 
+
 logger = LogGen.loggen()
 
 
@@ -23,12 +24,23 @@ def test_search(driver):
     logger.info("Clicking First Product")
     home.click_first_product()
 
-    logger.info("Verifying Product Title")
-    print(home.get_product_title())
+    logger.info("Getting Product Information")
 
-    assert ReadConfig.get_product().lower() in home.get_product_title().lower()
+    title = home.get_product_title()
+    price = home.get_product_price()
+    url = home.get_current_url()
+
+    print("Product Title:", title)
+    print("Product Price:", price)
+    print("Product URL:", url)
+
+    logger.info("Verifying Product Title")
+    assert ReadConfig.get_product().lower() in title.lower()
+
+    logger.info("Verifying Product Price")
+    assert len(price) > 0
 
     logger.info("Taking Screenshot")
-    home.take_screenshot()
+    home.take_screenshot("screenshots/product.png")
 
     logger.info("********** Test Passed **********")
