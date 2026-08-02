@@ -9,9 +9,10 @@ class CartPage(BasePage):
     SEARCH_BUTTON = (By.CLASS_NAME, "search-box__button--1oH7")
     FIRST_PRODUCT = (By.CSS_SELECTOR, "div[data-qa-locator='product-item'] a")
 
+    # Updated Add to Cart Locator
     ADD_TO_CART = (
         By.XPATH,
-        "//button[contains(.,'Add to Cart')]"
+        "//*[@id='module_add_to_cart']//button[contains(@class,'pdp-button_theme_bluedaraz')]"
     )
 
     def __init__(self, driver):
