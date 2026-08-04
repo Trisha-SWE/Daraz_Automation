@@ -1412,3 +1412,40 @@
 05-08-2026 02:17:25 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
 05-08-2026 02:17:26 AM | INFO | ========== Product Price Test Started ==========
 05-08-2026 02:17:49 AM | INFO | ========== Product Price Test Passed ==========
+05-08-2026 02:28:24 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:28:25 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:28:27 AM | INFO | ========== Cart Test Started ==========
+05-08-2026 02:28:46 AM | INFO | ========== Cart Test Passed ==========
+05-08-2026 02:28:48 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:28:50 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:28:51 AM | INFO | ========== Login Test Started ==========
+05-08-2026 02:28:51 AM | INFO | Opening Daraz
+05-08-2026 02:28:58 AM | INFO | Click Login
+05-08-2026 02:28:59 AM | INFO | Entering Email
+05-08-2026 02:29:00 AM | INFO | Entering Password
+05-08-2026 02:29:00 AM | INFO | Click Login Button
+05-08-2026 02:29:00 AM | INFO | Taking Screenshot
+05-08-2026 02:29:00 AM | INFO | Login Successful
+05-08-2026 02:29:00 AM | INFO | ========== Login Test Passed ==========
+05-08-2026 02:29:03 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:29:04 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:29:05 AM | INFO | ========== Product Price Test Started ==========
+05-08-2026 02:29:28 AM | INFO | ========== Product Price Test Passed ==========
+05-08-2026 02:29:30 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:29:31 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:29:33 AM | INFO | ========== Search Test Started ==========
+05-08-2026 02:29:33 AM | INFO | Opening Daraz Website
+05-08-2026 02:29:33 AM | INFO | Searching Product: Laptop
+05-08-2026 02:29:40 AM | INFO | Clicking Search Button
+05-08-2026 02:29:45 AM | INFO | Opening First Product
+05-08-2026 02:29:55 AM | INFO | Getting Product Information
+05-08-2026 02:29:55 AM | INFO | Product Title : ASUS X441U Used Laptop
+05-08-2026 02:29:55 AM | INFO | Product Price : \u09f3 17,999
+05-08-2026 02:29:55 AM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Aaeffea901717378024249a60f466cc58%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Aaeffea901717378024249a60f466cc58%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785875382094&ratingscore=&request_id=aeffea901717378024249a60f466cc58&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+05-08-2026 02:29:55 AM | INFO | Search Test Passed
+05-08-2026 02:29:55 AM | INFO | ========== Search Test Finished ==========
+05-08-2026 02:29:55 AM | INFO | Getting Product Information
+05-08-2026 02:29:55 AM | INFO | Verifying Product Title
+05-08-2026 02:29:55 AM | INFO | Verifying Product Price
+05-08-2026 02:29:55 AM | INFO | Taking Screenshot
+05-08-2026 02:29:56 AM | INFO | ********** Test Passed **********

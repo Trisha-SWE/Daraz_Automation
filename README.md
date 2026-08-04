@@ -1,48 +1,28 @@
-# Daraz Automation Framework
+# 🛒 Daraz Automation Testing Framework
 
-A Selenium Automation Framework developed using Python, Pytest, and Page Object Model (POM) to automate core functionalities of the Daraz e-commerce website.
-
----
-
-# Project Objective
-
-The purpose of this project is to automate Daraz website functionalities by following industry-standard automation practices.
-
-The framework demonstrates:
-
-- Selenium WebDriver
-- Python
-- Pytest
-- Page Object Model (POM)
-- BasePage Design Pattern
-- Explicit Wait
-- Logging
-- Screenshot Capture
-- HTML Report
-- Config Driven Framework
+A Selenium-based Test Automation Framework for Daraz Bangladesh built using **Python**, **Pytest**, and the **Page Object Model (POM)** design pattern.
 
 ---
 
-# Technologies Used
+## 🚀 Technologies Used
 
 - Python 3
-- Selenium
+- Selenium WebDriver
 - Pytest
-- WebDriver Manager
-- OpenPyXL
-- HTML Report
+- Page Object Model (POM)
+- HTML Reports
+- Logging
+- ChromeDriver
 
 ---
 
-# Project Structure
+## 📂 Project Structure
 
 ```
 Daraz_Automation/
 │
 ├── config/
 │   └── config.ini
-│
-├── logs/
 │
 ├── pages/
 │   ├── base_page.py
@@ -56,8 +36,9 @@ Daraz_Automation/
 ├── screenshots/
 │
 ├── testcases/
-│   ├── test_search.py
 │   ├── test_login.py
+│   ├── test_search.py
+│   ├── test_product_price.py
 │   └── test_cart.py
 │
 ├── utilities/
@@ -65,98 +46,79 @@ Daraz_Automation/
 │   ├── read_properties.py
 │   └── excel_utils.py
 │
+├── pytest.ini
 ├── conftest.py
-├── requirements.txt
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ---
 
-# Features
+# ✅ Automated Test Scenarios
 
-- Login Automation
-- Product Search
-- Add To Cart
-- Product Title Verification
-- Product Price Capture
-- Screenshot Capture
-- Logging
-- HTML Report
-- Page Object Model
+### 🔹 Login Test
+
+- Open Daraz
+- Click Login
+- Enter Email & Password
+- Click Login Button
+- Capture Screenshot
 
 ---
 
-# Installation
+### 🔹 Search Product Test
 
-Clone the repository
-
-```bash
-git clone https://github.com/Trisha-SWE/Daraz_Automation.git
-```
-
-Go to project directory
-
-```bash
-cd Daraz_Automation
-```
-
-Create Virtual Environment
-
-```bash
-python -m venv .venv
-```
-
-Activate
-
-PowerShell
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
+- Search Product
+- Open First Product
+- Capture Product Title
+- Capture Product Price
+- Capture Product URL
 
 ---
 
-# Run All Tests
+### 🔹 Product Price Test
 
-```bash
-pytest -v
-```
+- Search Product
+- Open Product
+- Verify Product Price
+- Capture Screenshot
 
 ---
 
-# Run Individual Tests
+### 🔹 Add To Cart Test
 
-Search Test
+- Search Product
+- Open Product
+- Add Product to Cart
+- Capture Screenshot
 
-```bash
-pytest testcases/test_search.py -v
+---
+
+# 📸 Screenshots
+
+Screenshots are automatically saved inside:
+
+```
+screenshots/
 ```
 
-Login Test
+Example:
 
-```bash
-pytest testcases/test_login.py -v
 ```
-
-Cart Test
-
-```bash
-pytest testcases/test_cart.py -v
+login_result.png
+search_result.png
+product.png
+product_price.png
+cart.png
 ```
 
 ---
 
-# Generate HTML Report
+# 📊 HTML Report
+
+Generate Report
 
 ```bash
-pytest -v --html=reports/report.html --self-contained-html
+pytest --html=reports/report.html
 ```
 
 Open
@@ -165,142 +127,96 @@ Open
 reports/report.html
 ```
 
-in your browser.
-
 ---
 
-# Automation Flow
+# ▶️ Run Tests
 
-```
-Launch Browser
-        ↓
-Open Daraz
-        ↓
-Search Product
-        ↓
-Open Product
-        ↓
-Capture Product Title & Price
-        ↓
-Login
-        ↓
-Add To Cart
-        ↓
-Take Screenshot
-        ↓
-Generate HTML Report
-        ↓
-Close Browser
+Run All Tests
+
+```bash
+pytest -v
 ```
 
----
+Run Login Test
 
-# Why Page Object Model?
-
-Every webpage has its own class.
-
-Benefits:
-
-- Reusable code
-- Easy maintenance
-- Better scalability
-- Clean framework
-
----
-
-# Why BasePage?
-
-BasePage stores reusable Selenium methods such as:
-
-- click()
-- type()
-- get_title()
-- get_current_url()
-- take_screenshot()
-
-This reduces duplicate code.
-
----
-
-# Why Logging?
-
-Logging records every important step.
-
-Example
-
+```bash
+pytest testcases/test_login.py -v
 ```
-Opening Daraz Website
 
-Searching Product
+Run Search Test
 
-Opening Product
+```bash
+pytest testcases/test_search.py -v
+```
 
-Clicking Add To Cart
+Run Product Price Test
 
-Screenshot Taken
+```bash
+pytest testcases/test_product_price.py -v
+```
 
-Test Passed
+Run Cart Test
+
+```bash
+pytest testcases/test_cart.py -v
 ```
 
 ---
 
-# Screenshots
+# 📋 Current Features
 
-Screenshots are automatically saved inside
+- ✅ Page Object Model (POM)
+- ✅ Selenium WebDriver
+- ✅ Pytest Framework
+- ✅ HTML Report
+- ✅ Logging
+- ✅ Screenshot Capture
+- ✅ Product Search
+- ✅ Product Price Verification
+- ✅ Login Automation
+- ✅ Add to Cart Automation
+
+---
+
+# 📈 Test Result
 
 ```
-screenshots/
+==========================
+4 Tests Passed
+==========================
+
+✔ Login Test
+✔ Search Test
+✔ Product Price Test
+✔ Add To Cart Test
 ```
 
 ---
 
-# Test Coverage
+# 🔮 Future Improvements
 
-✓ Search Product
-
-✓ Login
-
-✓ Add To Cart
-
-✓ Product Title
-
-✓ Product Price
-
-✓ Screenshot Capture
-
-✓ HTML Report
-
----
-
-# Best Practices
-
-- Page Object Model (POM)
-- BasePage
-- Explicit Wait
-- Config Driven Framework
-- Logging
-- HTML Report
-- Modular Design
-- Clean Folder Structure
-
----
-
-# Future Improvements
-
-- Data Driven Testing
-- Excel Integration
+- Data Driven Testing (Excel)
 - Cross Browser Testing
-- Parallel Execution
-- Jenkins CI/CD
-- GitHub Actions
+- Headless Execution
+- GitHub Actions CI/CD
 - Docker Support
+- Allure Report
 
 ---
 
-# Author
+# 👩‍💻 Author
 
 **Rukaiya Akter Trisha**
 
-B.Sc. in Software Engineering
+Software Engineering Student
 
 Daffodil International University
+
+Major: Software Quality Assurance & Testing (SQAT)
+
+GitHub:
+https://github.com/Trisha-SWE
+
+---
+
+⭐ If you found this project useful, don't forget to Star this repository.
