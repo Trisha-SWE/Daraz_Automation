@@ -8,11 +8,11 @@ logger = LogGen.loggen()
 
 def test_login(driver):
 
-    logger.info("********** Login Test Started **********")
+    logger.info("========== Login Test Started ==========")
 
     login = LoginPage(driver)
 
-    logger.info("Opening Daraz Website")
+    logger.info("Opening Daraz")
     login.open()
 
     logger.info("Click Login")
@@ -27,7 +27,11 @@ def test_login(driver):
     logger.info("Click Login Button")
     login.click_login_button()
 
-    logger.info("Taking Login Screenshot")
+    logger.info("Taking Screenshot")
     login.take_screenshot("screenshots/login_result.png")
 
-    logger.info("********** Login Test Passed **********")
+    # Login Verify
+    assert login.is_login_successful(), "Login Failed"
+
+    logger.info("Login Successful")
+    logger.info("========== Login Test Passed ==========")

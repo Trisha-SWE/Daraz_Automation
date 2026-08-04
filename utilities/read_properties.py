@@ -2,6 +2,9 @@ from configparser import ConfigParser
 
 
 class ReadConfig:
+    """
+    Read values from config.ini
+    """
 
     config = ConfigParser()
     config.read("config/config.ini")
@@ -21,3 +24,11 @@ class ReadConfig:
     @staticmethod
     def get_password():
         return ReadConfig.config.get("common", "password")
+
+    @staticmethod
+    def get_browser():
+        return ReadConfig.config.get("common", "browser")
+
+    @staticmethod
+    def get_timeout():
+        return ReadConfig.config.getint("common", "timeout")

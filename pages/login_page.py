@@ -1,4 +1,8 @@
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+
 from pages.base_page import BasePage
 from utilities.read_properties import ReadConfig
 
@@ -22,6 +26,12 @@ class LoginPage(BasePage):
         "//button[contains(text(),'LOGIN')]"
     )
 
+    # Login successful হলে এই element থাকবে
+    ACCOUNT = (
+        By.ID,
+        "account-popup-manage-account"
+    )
+
     def __init__(self, driver):
         super().__init__(driver)
 
@@ -39,3 +49,12 @@ class LoginPage(BasePage):
 
     def click_login_button(self):
         self.click(self.LOGIN_BUTTON)
+
+    def is_login_successful(self):
+        try:
+            WebDriverWait(self.driver, 10).until(
+                EC.presence_of_element_located(self.ACCOUNT)
+            )
+            return True
+        except TimeoutException:
+            return False

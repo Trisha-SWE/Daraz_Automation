@@ -1,0 +1,1414 @@
+2026-08-02 20:48:14,831 : INFO : ====== WebDriver manager ======
+2026-08-02 20:48:16,430 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 20:48:18,881 : INFO : ********** Test Started **********
+2026-08-02 20:48:18,881 : INFO : Opening Daraz Website
+2026-08-02 20:48:42,278 : INFO : Searching Product
+2026-08-02 20:48:42,544 : INFO : Clicking Search Button
+2026-08-02 20:48:50,559 : INFO : Taking Screenshot
+2026-08-02 20:48:50,705 : INFO : ********** Test Passed **********
+2026-08-02 20:57:12,762 : INFO : ====== WebDriver manager ======
+2026-08-02 20:57:14,178 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 20:57:15,943 : INFO : ********** Test Started **********
+2026-08-02 20:57:15,943 : INFO : Opening Daraz Website
+2026-08-02 20:57:16,413 : INFO : Searching Product
+2026-08-02 20:57:25,241 : INFO : Clicking Search Button
+2026-08-02 20:57:36,109 : INFO : Clicking First Product
+2026-08-02 20:57:48,083 : INFO : Taking Screenshot
+2026-08-02 20:57:48,393 : INFO : ********** Test Passed **********
+2026-08-02 21:04:38,216 : INFO : ====== WebDriver manager ======
+2026-08-02 21:04:39,585 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 21:04:40,973 : INFO : ********** Test Started **********
+2026-08-02 21:04:40,973 : INFO : Opening Daraz Website
+2026-08-02 21:04:56,538 : INFO : Searching Product
+2026-08-02 21:04:56,770 : INFO : Clicking Search Button
+2026-08-02 21:05:03,522 : INFO : Clicking First Product
+2026-08-02 21:05:12,563 : INFO : Verifying Product Title
+2026-08-02 21:05:12,849 : INFO : Taking Screenshot
+2026-08-02 21:05:13,018 : INFO : ********** Test Passed **********
+2026-08-02 21:14:36,150 : INFO : ====== WebDriver manager ======
+2026-08-02 21:14:37,538 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 21:14:38,816 : INFO : ********** Test Started **********
+2026-08-02 21:14:38,817 : INFO : Opening Daraz Website
+2026-08-02 21:14:56,237 : INFO : Searching Product
+2026-08-02 21:14:56,532 : INFO : Clicking Search Button
+2026-08-02 21:15:08,460 : INFO : Clicking First Product
+2026-08-02 21:15:20,402 : INFO : Verifying Product Title
+2026-08-02 21:15:20,500 : INFO : Taking Screenshot
+2026-08-02 21:15:20,686 : INFO : ********** Test Passed **********
+2026-08-02 21:29:51,228 : INFO : ====== WebDriver manager ======
+2026-08-02 21:29:53,689 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 21:29:55,278 : INFO : ********** Test Started **********
+2026-08-02 21:29:55,278 : INFO : Opening Daraz Website
+2026-08-02 21:30:09,197 : INFO : Searching Product
+2026-08-02 21:30:09,504 : INFO : Clicking Search Button
+2026-08-02 21:30:18,533 : INFO : Clicking First Product
+2026-08-02 21:30:42,312 : INFO : Verifying Product Title
+2026-08-02 21:30:42,527 : INFO : Taking Screenshot
+2026-08-02 21:30:42,690 : INFO : ********** Test Passed **********
+2026-08-02 22:11:08,657 : INFO : ====== WebDriver manager ======
+2026-08-02 22:11:10,089 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:11:12,581 : INFO : ********** Test Started **********
+2026-08-02 22:11:12,582 : INFO : Opening Daraz Website
+2026-08-02 22:11:22,945 : INFO : Searching Product
+2026-08-02 22:11:23,183 : INFO : Clicking Search Button
+2026-08-02 22:11:36,226 : INFO : Clicking First Product
+2026-08-02 22:11:49,493 : INFO : Verifying Product Title
+2026-08-02 22:11:49,610 : INFO : Taking Screenshot
+2026-08-02 22:11:49,954 : INFO : ********** Test Passed **********
+2026-08-02 22:12:32,524 : INFO : ====== WebDriver manager ======
+2026-08-02 22:12:33,759 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:12:34,804 : INFO : ********** Test Started **********
+2026-08-02 22:12:34,804 : INFO : Opening Daraz Website
+2026-08-02 22:12:50,222 : INFO : Searching Product
+2026-08-02 22:12:50,420 : INFO : Clicking Search Button
+2026-08-02 22:12:57,267 : INFO : Clicking First Product
+2026-08-02 22:13:09,983 : INFO : Verifying Product Title
+2026-08-02 22:13:11,288 : INFO : Taking Screenshot
+2026-08-02 22:13:11,529 : INFO : ********** Test Passed **********
+2026-08-02 22:13:44,233 : INFO : ====== WebDriver manager ======
+2026-08-02 22:13:45,395 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:13:46,800 : INFO : ********** Test Started **********
+2026-08-02 22:13:46,800 : INFO : Opening Daraz Website
+2026-08-02 22:13:59,333 : INFO : Searching Product
+2026-08-02 22:13:59,484 : INFO : Clicking Search Button
+2026-08-02 22:14:07,120 : INFO : Clicking First Product
+2026-08-02 22:14:18,537 : INFO : Verifying Product Title
+2026-08-02 22:14:19,706 : INFO : Taking Screenshot
+2026-08-02 22:14:19,992 : INFO : ********** Test Passed **********
+2026-08-02 22:14:31,202 : INFO : ====== WebDriver manager ======
+2026-08-02 22:14:32,631 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:14:34,437 : INFO : ********** Test Started **********
+2026-08-02 22:14:34,438 : INFO : Opening Daraz Website
+2026-08-02 22:14:50,600 : INFO : Searching Product
+2026-08-02 22:14:50,754 : INFO : Clicking Search Button
+2026-08-02 22:14:59,046 : INFO : Clicking First Product
+2026-08-02 22:15:10,412 : INFO : Verifying Product Title
+2026-08-02 22:15:11,436 : INFO : Taking Screenshot
+2026-08-02 22:15:11,598 : INFO : ********** Test Passed **********
+2026-08-02 22:43:24,078 : INFO : ====== WebDriver manager ======
+2026-08-02 22:43:25,745 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:43:27,082 : INFO : ********** Test Started **********
+2026-08-02 22:43:27,082 : INFO : Opening Daraz Website
+2026-08-02 22:43:43,747 : INFO : Searching Product
+2026-08-02 22:43:43,895 : INFO : Clicking Search Button
+2026-08-02 22:43:53,309 : INFO : Clicking First Product
+2026-08-02 22:44:01,345 : INFO : Getting Product Information
+2026-08-02 22:44:01,553 : INFO : Taking Screenshot
+2026-08-02 22:44:01,750 : INFO : ********** Test Passed **********
+2026-08-02 22:49:00,298 : INFO : ====== WebDriver manager ======
+2026-08-02 22:49:01,847 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:49:03,445 : INFO : ********** Test Started **********
+2026-08-02 22:49:03,445 : INFO : Opening Daraz Website
+2026-08-02 22:49:04,227 : INFO : Searching Product
+2026-08-02 22:49:16,268 : INFO : Clicking Search Button
+2026-08-02 22:49:26,281 : INFO : Clicking First Product
+2026-08-02 22:49:55,006 : INFO : Getting Product Information
+2026-08-02 22:49:55,173 : INFO : Verifying Product Title
+2026-08-02 22:49:55,174 : INFO : Verifying Product Price
+2026-08-02 22:49:55,174 : INFO : Taking Screenshot
+2026-08-02 22:49:55,355 : INFO : ********** Test Passed **********
+2026-08-02 22:56:35,771 : INFO : ====== WebDriver manager ======
+2026-08-02 22:56:36,857 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-02 22:56:38,088 : INFO : ********** Test Started **********
+2026-08-02 22:56:38,088 : INFO : Opening Daraz Website
+2026-08-02 22:57:17,813 : INFO : Searching Product
+2026-08-02 22:57:17,963 : INFO : Clicking Search Button
+2026-08-02 22:57:33,728 : INFO : Clicking First Product
+2026-08-02 22:58:00,132 : INFO : Getting Product Information
+2026-08-02 22:58:00,342 : INFO : Verifying Product Title
+2026-08-02 22:58:00,342 : INFO : Verifying Product Price
+2026-08-02 22:58:00,342 : INFO : Taking Screenshot
+2026-08-02 22:58:00,496 : INFO : ********** Test Passed **********
+2026-08-03 01:50:04,302 : INFO : ====== WebDriver manager ======
+2026-08-03 01:50:06,552 : INFO : Get LATEST chromedriver version for google-chrome
+2026-08-03 01:50:08,597 : INFO : Get LATEST chromedriver version for google-chrome
+2026-08-03 01:50:11,364 : INFO : WebDriver version 151.0.7922.71 selected
+2026-08-03 01:50:11,379 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.71/win64/chromedriver-win64.zip
+2026-08-03 01:50:11,380 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.71/win64/chromedriver-win64.zip
+2026-08-03 01:50:12,560 : INFO : Driver downloading response is 200
+2026-08-03 01:50:38,255 : INFO : Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71]
+2026-08-03 01:50:41,709 : INFO : ********** Test Started **********
+2026-08-03 01:50:41,709 : INFO : Opening Daraz Website
+2026-08-03 01:50:49,943 : INFO : Searching Product
+2026-08-03 01:50:50,112 : INFO : Clicking Search Button
+2026-08-03 01:50:59,272 : INFO : Clicking First Product
+2026-08-03 01:51:09,077 : INFO : Getting Product Information
+2026-08-03 01:51:09,227 : INFO : Verifying Product Title
+2026-08-03 01:51:09,227 : INFO : Verifying Product Price
+2026-08-03 01:51:09,228 : INFO : Taking Screenshot
+2026-08-03 01:51:09,425 : INFO : ********** Test Passed **********
+2026-08-03 01:51:20,900 : INFO : ====== WebDriver manager ======
+2026-08-03 01:51:22,044 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 01:51:23,392 : INFO : ********** Test Started **********
+2026-08-03 01:51:23,393 : INFO : Opening Daraz Website
+2026-08-03 01:51:34,807 : INFO : Searching Product
+2026-08-03 01:51:35,032 : INFO : Clicking Search Button
+2026-08-03 01:51:40,278 : INFO : Clicking First Product
+2026-08-03 01:51:48,025 : INFO : Getting Product Information
+2026-08-03 01:51:48,147 : INFO : Verifying Product Title
+2026-08-03 01:51:48,148 : INFO : Verifying Product Price
+2026-08-03 01:51:48,148 : INFO : Taking Screenshot
+2026-08-03 01:51:48,336 : INFO : ********** Test Passed **********
+2026-08-03 02:11:51,182 : INFO : ====== WebDriver manager ======
+2026-08-03 02:11:52,260 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:11:53,697 : INFO : ********** Test Started **********
+2026-08-03 02:11:53,698 : INFO : Opening Daraz Website
+2026-08-03 02:12:01,578 : INFO : Searching Product
+2026-08-03 02:12:01,817 : INFO : Clicking Search Button
+2026-08-03 02:12:08,182 : INFO : Clicking First Product
+2026-08-03 02:12:19,855 : INFO : Getting Product Information
+2026-08-03 02:12:20,181 : INFO : Verifying Product Title
+2026-08-03 02:12:20,181 : INFO : Verifying Product Price
+2026-08-03 02:12:20,181 : INFO : Taking Screenshot
+2026-08-03 02:12:20,340 : INFO : ********** Test Passed **********
+2026-08-03 02:24:41,040 : INFO : ====== WebDriver manager ======
+2026-08-03 02:24:42,485 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:24:44,390 : INFO : ******** Login Test Started ********
+2026-08-03 02:24:55,060 : INFO : Click Login
+2026-08-03 02:24:55,510 : INFO : Enter Email
+2026-08-03 02:24:55,824 : INFO : Enter Password
+2026-08-03 02:24:55,943 : INFO : Click Login Button
+2026-08-03 02:24:56,185 : INFO : ******** Login Test Finished ********
+2026-08-03 02:24:59,118 : INFO : ====== WebDriver manager ======
+2026-08-03 02:25:00,137 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:25:01,943 : INFO : ********** Test Started **********
+2026-08-03 02:25:01,944 : INFO : Opening Daraz Website
+2026-08-03 02:25:02,638 : INFO : Searching Product
+2026-08-03 02:25:10,932 : INFO : Clicking Search Button
+2026-08-03 02:25:17,229 : INFO : Clicking First Product
+2026-08-03 02:25:28,783 : INFO : Getting Product Information
+2026-08-03 02:25:29,108 : INFO : Verifying Product Title
+2026-08-03 02:25:29,108 : INFO : Verifying Product Price
+2026-08-03 02:25:29,108 : INFO : Taking Screenshot
+2026-08-03 02:25:29,268 : INFO : ********** Test Passed **********
+2026-08-03 02:32:48,103 : INFO : ====== WebDriver manager ======
+2026-08-03 02:32:49,248 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:32:51,033 : INFO : ********** Login Test Started **********
+2026-08-03 02:32:51,033 : INFO : Opening Daraz Website
+2026-08-03 02:33:00,701 : INFO : Click Login
+2026-08-03 02:33:01,173 : INFO : Entering Email
+2026-08-03 02:33:01,386 : INFO : Entering Password
+2026-08-03 02:33:01,513 : INFO : Click Login Button
+2026-08-03 02:33:01,802 : INFO : Taking Login Screenshot
+2026-08-03 02:33:02,127 : INFO : ********** Login Test Passed **********
+2026-08-03 02:33:04,934 : INFO : ====== WebDriver manager ======
+2026-08-03 02:33:05,983 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:33:07,216 : INFO : ********** Test Started **********
+2026-08-03 02:33:07,216 : INFO : Opening Daraz Website
+2026-08-03 02:33:14,827 : INFO : Searching Product
+2026-08-03 02:33:15,080 : INFO : Clicking Search Button
+2026-08-03 02:33:21,777 : INFO : Clicking First Product
+2026-08-03 02:33:32,270 : INFO : Getting Product Information
+2026-08-03 02:33:32,524 : INFO : Verifying Product Title
+2026-08-03 02:33:32,524 : INFO : Verifying Product Price
+2026-08-03 02:33:32,524 : INFO : Taking Screenshot
+2026-08-03 02:33:32,713 : INFO : ********** Test Passed **********
+2026-08-03 02:44:26,689 : INFO : ====== WebDriver manager ======
+2026-08-03 02:44:28,410 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:44:29,716 : INFO : ********** Login Test Started **********
+2026-08-03 02:44:29,717 : INFO : Opening Daraz Website
+2026-08-03 02:44:37,629 : INFO : Click Login
+2026-08-03 02:44:38,558 : INFO : Entering Email
+2026-08-03 02:44:39,181 : INFO : Entering Password
+2026-08-03 02:44:39,565 : INFO : Click Login Button
+2026-08-03 02:44:39,859 : INFO : Taking Login Screenshot
+2026-08-03 02:44:40,183 : INFO : ********** Login Test Passed **********
+2026-08-03 02:44:42,917 : INFO : ====== WebDriver manager ======
+2026-08-03 02:44:43,853 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:44:45,078 : INFO : ********** Test Started **********
+2026-08-03 02:44:45,079 : INFO : Opening Daraz Website
+2026-08-03 02:44:53,077 : INFO : Searching Product
+2026-08-03 02:44:53,367 : INFO : Clicking Search Button
+2026-08-03 02:45:00,833 : INFO : Clicking First Product
+2026-08-03 02:45:11,780 : INFO : Getting Product Information
+2026-08-03 02:45:12,086 : INFO : Verifying Product Title
+2026-08-03 02:45:12,086 : INFO : Verifying Product Price
+2026-08-03 02:45:12,086 : INFO : Taking Screenshot
+2026-08-03 02:45:12,262 : INFO : ********** Test Passed **********
+2026-08-03 02:49:26,476 : INFO : ====== WebDriver manager ======
+2026-08-03 02:49:27,736 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:49:29,054 : INFO : ********** Login Test Started **********
+2026-08-03 02:49:29,055 : INFO : Opening Daraz Website
+2026-08-03 02:49:39,778 : INFO : Click Login
+2026-08-03 02:49:40,260 : INFO : Entering Email
+2026-08-03 02:49:41,080 : INFO : Entering Password
+2026-08-03 02:49:41,251 : INFO : Click Login Button
+2026-08-03 02:50:35,241 : INFO : Verifying Login
+2026-08-03 02:50:37,605 : INFO : ====== WebDriver manager ======
+2026-08-03 02:50:38,695 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:50:40,815 : INFO : ********** Test Started **********
+2026-08-03 02:50:40,815 : INFO : Opening Daraz Website
+2026-08-03 02:50:49,043 : INFO : Searching Product
+2026-08-03 02:50:49,828 : INFO : Clicking Search Button
+2026-08-03 02:50:57,513 : INFO : Clicking First Product
+2026-08-03 02:51:12,477 : INFO : Getting Product Information
+2026-08-03 02:51:12,775 : INFO : Verifying Product Title
+2026-08-03 02:51:12,775 : INFO : Verifying Product Price
+2026-08-03 02:51:12,776 : INFO : Taking Screenshot
+2026-08-03 02:51:12,947 : INFO : ********** Test Passed **********
+2026-08-03 02:56:20,964 : INFO : ====== WebDriver manager ======
+2026-08-03 02:56:22,044 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:56:23,447 : INFO : ********** Login Test Started **********
+2026-08-03 02:56:23,447 : INFO : Opening Daraz Website
+2026-08-03 02:56:33,272 : INFO : Click Login
+2026-08-03 02:56:33,792 : INFO : Entering Email
+2026-08-03 02:56:34,726 : INFO : Entering Password
+2026-08-03 02:56:35,054 : INFO : Click Login Button
+2026-08-03 02:56:35,462 : INFO : Taking Login Screenshot
+2026-08-03 02:56:35,768 : INFO : ********** Login Test Passed **********
+2026-08-03 02:56:38,406 : INFO : ====== WebDriver manager ======
+2026-08-03 02:56:39,347 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:56:40,612 : INFO : ********** Test Started **********
+2026-08-03 02:56:40,613 : INFO : Opening Daraz Website
+2026-08-03 02:56:48,172 : INFO : Searching Product
+2026-08-03 02:56:48,406 : INFO : Clicking Search Button
+2026-08-03 02:56:56,665 : INFO : Clicking First Product
+2026-08-03 02:57:25,006 : INFO : Getting Product Information
+2026-08-03 02:57:25,486 : INFO : Verifying Product Title
+2026-08-03 02:57:25,487 : INFO : Verifying Product Price
+2026-08-03 02:57:25,487 : INFO : Taking Screenshot
+2026-08-03 02:57:25,646 : INFO : ********** Test Passed **********
+2026-08-03 02:58:29,717 : INFO : ====== WebDriver manager ======
+2026-08-03 02:58:30,796 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:58:32,129 : INFO : ********** Login Test Started **********
+2026-08-03 02:58:32,129 : INFO : Opening Daraz Website
+2026-08-03 02:58:38,712 : INFO : Click Login
+2026-08-03 02:58:39,635 : INFO : Entering Email
+2026-08-03 02:58:39,940 : INFO : Entering Password
+2026-08-03 02:58:40,151 : INFO : Click Login Button
+2026-08-03 02:58:40,579 : INFO : Taking Login Screenshot
+2026-08-03 02:58:40,870 : INFO : ********** Login Test Passed **********
+2026-08-03 02:58:43,498 : INFO : ====== WebDriver manager ======
+2026-08-03 02:58:44,424 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 02:58:45,623 : INFO : ********** Test Started **********
+2026-08-03 02:58:45,623 : INFO : Opening Daraz Website
+2026-08-03 02:58:59,958 : INFO : Searching Product
+2026-08-03 02:59:00,565 : INFO : Clicking Search Button
+2026-08-03 02:59:06,900 : INFO : Clicking First Product
+2026-08-03 02:59:15,475 : INFO : Getting Product Information
+2026-08-03 02:59:15,786 : INFO : Verifying Product Title
+2026-08-03 02:59:15,786 : INFO : Verifying Product Price
+2026-08-03 02:59:15,786 : INFO : Taking Screenshot
+2026-08-03 02:59:15,950 : INFO : ********** Test Passed **********
+2026-08-03 03:05:53,831 : INFO : ====== WebDriver manager ======
+2026-08-03 03:05:55,089 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:05:56,341 : INFO : ********** Cart Test Started **********
+2026-08-03 03:05:56,341 : INFO : Opening Daraz Website
+2026-08-03 03:05:57,403 : INFO : Searching Product
+2026-08-03 03:06:04,293 : INFO : Clicking Search Button
+2026-08-03 03:06:10,524 : INFO : Clicking First Product
+2026-08-03 03:06:21,691 : INFO : Clicking Add To Cart
+2026-08-03 03:06:22,275 : INFO : Taking Screenshot
+2026-08-03 03:06:22,840 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:06:54,801 : INFO : ====== WebDriver manager ======
+2026-08-03 03:06:55,902 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:06:57,581 : INFO : ********** Cart Test Started **********
+2026-08-03 03:06:57,582 : INFO : Opening Daraz Website
+2026-08-03 03:07:05,100 : INFO : Searching Product
+2026-08-03 03:07:05,336 : INFO : Clicking Search Button
+2026-08-03 03:07:11,709 : INFO : Clicking First Product
+2026-08-03 03:07:19,724 : INFO : Clicking Add To Cart
+2026-08-03 03:07:20,346 : INFO : Taking Screenshot
+2026-08-03 03:07:20,906 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:07:23,597 : INFO : ====== WebDriver manager ======
+2026-08-03 03:07:24,574 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:07:26,547 : INFO : ********** Login Test Started **********
+2026-08-03 03:07:26,547 : INFO : Opening Daraz Website
+2026-08-03 03:07:35,730 : INFO : Click Login
+2026-08-03 03:07:36,145 : INFO : Entering Email
+2026-08-03 03:07:36,455 : INFO : Entering Password
+2026-08-03 03:07:36,586 : INFO : Click Login Button
+2026-08-03 03:07:36,953 : INFO : Taking Login Screenshot
+2026-08-03 03:07:37,372 : INFO : ********** Login Test Passed **********
+2026-08-03 03:07:40,011 : INFO : ====== WebDriver manager ======
+2026-08-03 03:07:40,994 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:07:42,251 : INFO : ********** Test Started **********
+2026-08-03 03:07:42,251 : INFO : Opening Daraz Website
+2026-08-03 03:07:48,771 : INFO : Searching Product
+2026-08-03 03:07:48,979 : INFO : Clicking Search Button
+2026-08-03 03:07:53,764 : INFO : Clicking First Product
+2026-08-03 03:08:01,979 : INFO : Getting Product Information
+2026-08-03 03:08:02,198 : INFO : Verifying Product Title
+2026-08-03 03:08:02,198 : INFO : Verifying Product Price
+2026-08-03 03:08:02,198 : INFO : Taking Screenshot
+2026-08-03 03:08:03,030 : INFO : ********** Test Passed **********
+2026-08-03 03:17:52,841 : INFO : ====== WebDriver manager ======
+2026-08-03 03:17:54,080 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:17:55,452 : INFO : ********** Cart Test Started **********
+2026-08-03 03:17:55,453 : INFO : Opening Daraz Website
+2026-08-03 03:17:56,171 : INFO : Searching Product
+2026-08-03 03:18:03,390 : INFO : Clicking Search Button
+2026-08-03 03:18:09,905 : INFO : Clicking First Product
+2026-08-03 03:18:19,931 : INFO : Switching to Product Tab
+2026-08-03 03:18:19,937 : INFO : Clicking Add To Cart
+2026-08-03 03:18:20,582 : INFO : Taking Screenshot
+2026-08-03 03:18:21,034 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:19:05,087 : INFO : ====== WebDriver manager ======
+2026-08-03 03:19:06,171 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:19:07,466 : INFO : ********** Cart Test Started **********
+2026-08-03 03:19:07,466 : INFO : Opening Daraz Website
+2026-08-03 03:19:17,876 : INFO : Searching Product
+2026-08-03 03:19:18,037 : INFO : Clicking Search Button
+2026-08-03 03:19:26,131 : INFO : Clicking First Product
+2026-08-03 03:19:39,646 : INFO : Switching to Product Tab
+2026-08-03 03:19:39,656 : INFO : Clicking Add To Cart
+2026-08-03 03:19:41,044 : INFO : Taking Screenshot
+2026-08-03 03:19:41,239 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:19:44,098 : INFO : ====== WebDriver manager ======
+2026-08-03 03:19:45,078 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:19:46,301 : INFO : ********** Login Test Started **********
+2026-08-03 03:19:46,301 : INFO : Opening Daraz Website
+2026-08-03 03:19:54,998 : INFO : Click Login
+2026-08-03 03:19:55,565 : INFO : Entering Email
+2026-08-03 03:19:56,364 : INFO : Entering Password
+2026-08-03 03:19:56,501 : INFO : Click Login Button
+2026-08-03 03:19:56,977 : INFO : Taking Login Screenshot
+2026-08-03 03:19:57,296 : INFO : ********** Login Test Passed **********
+2026-08-03 03:20:01,517 : INFO : ====== WebDriver manager ======
+2026-08-03 03:20:02,576 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:20:03,731 : INFO : ********** Test Started **********
+2026-08-03 03:20:03,731 : INFO : Opening Daraz Website
+2026-08-03 03:20:04,212 : INFO : Searching Product
+2026-08-03 03:20:11,269 : INFO : Clicking Search Button
+2026-08-03 03:20:17,950 : INFO : Clicking First Product
+2026-08-03 03:20:26,467 : INFO : Getting Product Information
+2026-08-03 03:20:26,763 : INFO : Verifying Product Title
+2026-08-03 03:20:26,763 : INFO : Verifying Product Price
+2026-08-03 03:20:26,763 : INFO : Taking Screenshot
+2026-08-03 03:20:26,928 : INFO : ********** Test Passed **********
+2026-08-03 03:24:48,725 : INFO : ====== WebDriver manager ======
+2026-08-03 03:24:49,786 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:24:50,971 : INFO : ********** Cart Test Started **********
+2026-08-03 03:24:50,971 : INFO : Opening Daraz Website
+2026-08-03 03:24:52,255 : INFO : Searching Product
+2026-08-03 03:25:02,414 : INFO : Clicking Search Button
+2026-08-03 03:25:10,780 : INFO : Clicking First Product
+2026-08-03 03:25:21,929 : INFO : Switching to Product Tab
+2026-08-03 03:25:21,944 : INFO : Clicking Add To Cart
+2026-08-03 03:25:36,692 : INFO : ====== WebDriver manager ======
+2026-08-03 03:25:37,698 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:25:38,767 : INFO : ********** Login Test Started **********
+2026-08-03 03:25:38,767 : INFO : Opening Daraz Website
+2026-08-03 03:25:45,882 : INFO : Click Login
+2026-08-03 03:25:46,345 : INFO : Entering Email
+2026-08-03 03:25:47,292 : INFO : Entering Password
+2026-08-03 03:25:47,483 : INFO : Click Login Button
+2026-08-03 03:25:48,049 : INFO : Taking Login Screenshot
+2026-08-03 03:25:48,426 : INFO : ********** Login Test Passed **********
+2026-08-03 03:25:51,343 : INFO : ====== WebDriver manager ======
+2026-08-03 03:25:52,387 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:25:53,746 : INFO : ********** Test Started **********
+2026-08-03 03:25:53,746 : INFO : Opening Daraz Website
+2026-08-03 03:26:31,730 : INFO : Searching Product
+2026-08-03 03:26:31,877 : INFO : Clicking Search Button
+2026-08-03 03:26:38,918 : INFO : Clicking First Product
+2026-08-03 03:26:48,042 : INFO : Getting Product Information
+2026-08-03 03:26:48,390 : INFO : Verifying Product Title
+2026-08-03 03:26:48,390 : INFO : Verifying Product Price
+2026-08-03 03:26:48,391 : INFO : Taking Screenshot
+2026-08-03 03:26:48,555 : INFO : ********** Test Passed **********
+2026-08-03 03:32:08,861 : INFO : ====== WebDriver manager ======
+2026-08-03 03:32:10,130 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:32:11,380 : INFO : ********** Cart Test Started **********
+2026-08-03 03:32:11,381 : INFO : Opening Daraz Website
+2026-08-03 03:32:12,999 : INFO : Searching Product
+2026-08-03 03:32:23,392 : INFO : Clicking Search Button
+2026-08-03 03:32:29,753 : INFO : Clicking First Product
+2026-08-03 03:32:38,957 : INFO : Switching to Product Tab
+2026-08-03 03:32:38,968 : INFO : Clicking Add To Cart
+2026-08-03 03:32:40,632 : INFO : Screenshot Taken
+2026-08-03 03:32:40,632 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:32:44,308 : INFO : ====== WebDriver manager ======
+2026-08-03 03:32:45,258 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:32:46,543 : INFO : ********** Login Test Started **********
+2026-08-03 03:32:46,543 : INFO : Opening Daraz Website
+2026-08-03 03:32:54,782 : INFO : Click Login
+2026-08-03 03:32:55,257 : INFO : Entering Email
+2026-08-03 03:32:55,461 : INFO : Entering Password
+2026-08-03 03:32:55,608 : INFO : Click Login Button
+2026-08-03 03:32:56,005 : INFO : Taking Login Screenshot
+2026-08-03 03:32:56,392 : INFO : ********** Login Test Passed **********
+2026-08-03 03:32:59,020 : INFO : ====== WebDriver manager ======
+2026-08-03 03:32:59,969 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:33:01,355 : INFO : ********** Test Started **********
+2026-08-03 03:33:01,356 : INFO : Opening Daraz Website
+2026-08-03 03:33:35,886 : INFO : Searching Product
+2026-08-03 03:33:36,063 : INFO : Clicking Search Button
+2026-08-03 03:33:43,013 : INFO : Clicking First Product
+2026-08-03 03:33:51,919 : INFO : Getting Product Information
+2026-08-03 03:33:52,176 : INFO : Verifying Product Title
+2026-08-03 03:33:52,177 : INFO : Verifying Product Price
+2026-08-03 03:33:52,177 : INFO : Taking Screenshot
+2026-08-03 03:33:52,338 : INFO : ********** Test Passed **********
+2026-08-03 03:40:01,458 : INFO : ====== WebDriver manager ======
+2026-08-03 03:40:02,791 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:40:04,541 : INFO : ********** Cart Test Started **********
+2026-08-03 03:40:04,541 : INFO : Opening Daraz Website
+2026-08-03 03:40:13,325 : INFO : Searching Product
+2026-08-03 03:40:13,560 : INFO : Clicking Search Button
+2026-08-03 03:40:20,523 : INFO : Clicking First Product
+2026-08-03 03:40:28,520 : INFO : Switching to Product Tab
+2026-08-03 03:40:28,526 : INFO : Clicking Add To Cart
+2026-08-03 03:40:29,590 : INFO : Screenshot Taken
+2026-08-03 03:40:29,590 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:40:32,423 : INFO : ====== WebDriver manager ======
+2026-08-03 03:40:33,424 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:40:34,588 : INFO : ********** Login Test Started **********
+2026-08-03 03:40:34,588 : INFO : Opening Daraz Website
+2026-08-03 03:40:44,817 : INFO : Click Login
+2026-08-03 03:40:45,668 : INFO : Entering Email
+2026-08-03 03:40:46,059 : INFO : Entering Password
+2026-08-03 03:40:46,259 : INFO : Click Login Button
+2026-08-03 03:40:46,635 : INFO : Taking Login Screenshot
+2026-08-03 03:40:46,999 : INFO : ********** Login Test Passed **********
+2026-08-03 03:40:49,859 : INFO : ====== WebDriver manager ======
+2026-08-03 03:40:50,846 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:40:52,107 : INFO : ********** Test Started **********
+2026-08-03 03:40:52,108 : INFO : Opening Daraz Website
+2026-08-03 03:40:52,541 : INFO : Searching Product
+2026-08-03 03:41:00,114 : INFO : Clicking Search Button
+2026-08-03 03:41:07,120 : INFO : Clicking First Product
+2026-08-03 03:41:21,475 : INFO : Getting Product Information
+2026-08-03 03:41:21,807 : INFO : Verifying Product Title
+2026-08-03 03:41:21,807 : INFO : Verifying Product Price
+2026-08-03 03:41:21,807 : INFO : Taking Screenshot
+2026-08-03 03:41:21,970 : INFO : ********** Test Passed **********
+2026-08-03 03:41:54,324 : INFO : ====== WebDriver manager ======
+2026-08-03 03:41:55,389 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:41:56,710 : INFO : ********** Cart Test Started **********
+2026-08-03 03:41:56,711 : INFO : Opening Daraz Website
+2026-08-03 03:41:57,189 : INFO : Searching Product
+2026-08-03 03:42:30,288 : INFO : Clicking Search Button
+2026-08-03 03:42:36,755 : INFO : Clicking First Product
+2026-08-03 03:42:45,976 : INFO : Switching to Product Tab
+2026-08-03 03:42:45,998 : INFO : Clicking Add To Cart
+2026-08-03 03:42:47,096 : INFO : Screenshot Taken
+2026-08-03 03:42:47,097 : INFO : ********** Cart Test Passed **********
+2026-08-03 03:42:49,915 : INFO : ====== WebDriver manager ======
+2026-08-03 03:42:50,904 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:42:52,635 : INFO : ********** Login Test Started **********
+2026-08-03 03:42:52,636 : INFO : Opening Daraz Website
+2026-08-03 03:42:59,744 : INFO : Click Login
+2026-08-03 03:43:00,198 : INFO : Entering Email
+2026-08-03 03:43:00,429 : INFO : Entering Password
+2026-08-03 03:43:00,558 : INFO : Click Login Button
+2026-08-03 03:43:00,928 : INFO : Taking Login Screenshot
+2026-08-03 03:43:01,334 : INFO : ********** Login Test Passed **********
+2026-08-03 03:43:03,959 : INFO : ====== WebDriver manager ======
+2026-08-03 03:43:04,954 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 03:43:06,707 : INFO : ********** Test Started **********
+2026-08-03 03:43:06,707 : INFO : Opening Daraz Website
+2026-08-03 03:43:07,200 : INFO : Searching Product
+2026-08-03 03:43:12,896 : INFO : Clicking Search Button
+2026-08-03 03:43:17,976 : INFO : Clicking First Product
+2026-08-03 03:43:26,840 : INFO : Getting Product Information
+2026-08-03 03:43:27,152 : INFO : Verifying Product Title
+2026-08-03 03:43:27,152 : INFO : Verifying Product Price
+2026-08-03 03:43:27,152 : INFO : Taking Screenshot
+2026-08-03 03:43:27,314 : INFO : ********** Test Passed **********
+2026-08-03 04:31:13,131 : INFO : ====== WebDriver manager ======
+2026-08-03 04:31:14,470 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:31:16,340 : INFO : ********** Cart Test Started **********
+2026-08-03 04:31:16,340 : INFO : Opening Daraz Website
+2026-08-03 04:31:16,897 : INFO : Searching Product
+2026-08-03 04:31:25,027 : INFO : Clicking Search Button
+2026-08-03 04:31:41,851 : INFO : Clicking First Product
+2026-08-03 04:31:54,384 : INFO : Switching to Product Tab
+2026-08-03 04:31:54,410 : INFO : Clicking Add To Cart
+2026-08-03 04:31:55,507 : INFO : Screenshot Taken
+2026-08-03 04:31:55,507 : INFO : ********** Cart Test Passed **********
+2026-08-03 04:33:03,217 : INFO : ====== WebDriver manager ======
+2026-08-03 04:33:04,401 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:33:05,689 : INFO : ********** Cart Test Started **********
+2026-08-03 04:33:05,689 : INFO : Opening Daraz Website
+2026-08-03 04:33:15,065 : INFO : Searching Product
+2026-08-03 04:33:15,200 : INFO : Clicking Search Button
+2026-08-03 04:33:21,374 : INFO : Clicking First Product
+2026-08-03 04:33:30,154 : INFO : Switching to Product Tab
+2026-08-03 04:33:30,161 : INFO : Clicking Add To Cart
+2026-08-03 04:33:31,152 : INFO : Screenshot Taken
+2026-08-03 04:33:31,152 : INFO : ********** Cart Test Passed **********
+2026-08-03 04:33:34,100 : INFO : ====== WebDriver manager ======
+2026-08-03 04:33:35,140 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:33:36,670 : INFO : ********** Login Test Started **********
+2026-08-03 04:33:36,671 : INFO : Opening Daraz Website
+2026-08-03 04:33:45,549 : INFO : Click Login
+2026-08-03 04:33:46,012 : INFO : Entering Email
+2026-08-03 04:33:46,298 : INFO : Entering Password
+2026-08-03 04:33:46,415 : INFO : Click Login Button
+2026-08-03 04:33:46,771 : INFO : Taking Login Screenshot
+2026-08-03 04:33:47,141 : INFO : ********** Login Test Passed **********
+2026-08-03 04:33:49,930 : INFO : ====== WebDriver manager ======
+2026-08-03 04:33:50,899 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:33:52,777 : INFO : ********** Test Started **********
+2026-08-03 04:33:52,778 : INFO : Opening Daraz Website
+2026-08-03 04:34:00,127 : INFO : Searching Product
+2026-08-03 04:34:00,269 : INFO : Clicking Search Button
+2026-08-03 04:34:07,047 : INFO : Clicking First Product
+2026-08-03 04:34:15,419 : INFO : Getting Product Information
+2026-08-03 04:34:15,733 : INFO : Verifying Product Title
+2026-08-03 04:34:15,734 : INFO : Verifying Product Price
+2026-08-03 04:34:15,734 : INFO : Taking Screenshot
+2026-08-03 04:34:15,889 : INFO : ********** Test Passed **********
+2026-08-03 04:34:40,800 : INFO : ====== WebDriver manager ======
+2026-08-03 04:34:41,909 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:34:43,121 : INFO : ********** Cart Test Started **********
+2026-08-03 04:34:43,124 : INFO : Opening Daraz Website
+2026-08-03 04:34:49,453 : INFO : Searching Product
+2026-08-03 04:34:49,685 : INFO : Clicking Search Button
+2026-08-03 04:34:56,763 : INFO : Clicking First Product
+2026-08-03 04:35:08,981 : INFO : Switching to Product Tab
+2026-08-03 04:35:08,989 : INFO : Clicking Add To Cart
+2026-08-03 04:35:10,096 : INFO : Screenshot Taken
+2026-08-03 04:35:10,096 : INFO : ********** Cart Test Passed **********
+2026-08-03 04:35:12,823 : INFO : ====== WebDriver manager ======
+2026-08-03 04:35:13,798 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:35:14,971 : INFO : ********** Login Test Started **********
+2026-08-03 04:35:14,971 : INFO : Opening Daraz Website
+2026-08-03 04:35:21,062 : INFO : Click Login
+2026-08-03 04:35:21,608 : INFO : Entering Email
+2026-08-03 04:35:22,384 : INFO : Entering Password
+2026-08-03 04:35:22,633 : INFO : Click Login Button
+2026-08-03 04:35:23,107 : INFO : Taking Login Screenshot
+2026-08-03 04:35:23,442 : INFO : ********** Login Test Passed **********
+2026-08-03 04:35:26,069 : INFO : ====== WebDriver manager ======
+2026-08-03 04:35:27,013 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:35:28,280 : INFO : ********** Test Started **********
+2026-08-03 04:35:28,280 : INFO : Opening Daraz Website
+2026-08-03 04:35:35,717 : INFO : Searching Product
+2026-08-03 04:35:35,947 : INFO : Clicking Search Button
+2026-08-03 04:35:42,099 : INFO : Clicking First Product
+2026-08-03 04:35:53,607 : INFO : Getting Product Information
+2026-08-03 04:35:53,904 : INFO : Verifying Product Title
+2026-08-03 04:35:53,905 : INFO : Verifying Product Price
+2026-08-03 04:35:53,905 : INFO : Taking Screenshot
+2026-08-03 04:35:54,064 : INFO : ********** Test Passed **********
+2026-08-03 04:47:39,598 : INFO : ====== WebDriver manager ======
+2026-08-03 04:47:40,950 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:47:42,245 : INFO : ********** Cart Test Started **********
+2026-08-03 04:47:42,245 : INFO : Opening Daraz Website
+2026-08-03 04:47:51,687 : INFO : Searching Product
+2026-08-03 04:47:51,877 : INFO : Clicking Search Button
+2026-08-03 04:48:00,758 : INFO : Clicking First Product
+2026-08-03 04:48:10,668 : INFO : Switching to Product Tab
+2026-08-03 04:48:10,699 : INFO : Clicking Add To Cart
+2026-08-03 04:48:11,729 : INFO : Screenshot Taken
+2026-08-03 04:48:11,729 : INFO : ********** Cart Test Passed **********
+2026-08-03 04:48:14,947 : INFO : ====== WebDriver manager ======
+2026-08-03 04:48:16,132 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:48:17,911 : INFO : ********** Login Test Started **********
+2026-08-03 04:48:17,912 : INFO : Opening Daraz Website
+2026-08-03 04:48:30,028 : INFO : Click Login
+2026-08-03 04:48:30,491 : INFO : Entering Email
+2026-08-03 04:48:30,790 : INFO : Entering Password
+2026-08-03 04:48:30,943 : INFO : Click Login Button
+2026-08-03 04:48:31,394 : INFO : Taking Login Screenshot
+2026-08-03 04:48:31,677 : INFO : ********** Login Test Passed **********
+2026-08-03 04:48:34,303 : INFO : ====== WebDriver manager ======
+2026-08-03 04:48:35,375 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:48:36,643 : INFO : ********** Test Started **********
+2026-08-03 04:48:36,644 : INFO : Opening Daraz Website
+2026-08-03 04:48:43,438 : INFO : Searching Product
+2026-08-03 04:48:43,648 : INFO : Clicking Search Button
+2026-08-03 04:48:50,678 : INFO : Clicking First Product
+2026-08-03 04:49:00,867 : INFO : Getting Product Information
+2026-08-03 04:49:01,185 : INFO : Verifying Product Title
+2026-08-03 04:49:01,185 : INFO : Verifying Product Price
+2026-08-03 04:49:01,185 : INFO : Taking Screenshot
+2026-08-03 04:49:01,344 : INFO : ********** Test Passed **********
+2026-08-03 04:59:42,937 : INFO : ====== WebDriver manager ======
+2026-08-03 04:59:44,220 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 04:59:45,706 : INFO : ********** Cart Test Started **********
+2026-08-03 04:59:45,706 : INFO : Opening Daraz Website
+2026-08-03 04:59:55,171 : INFO : Searching Product
+2026-08-03 04:59:55,428 : INFO : Clicking Search Button
+2026-08-03 05:00:02,623 : INFO : Clicking First Product
+2026-08-03 05:00:12,995 : INFO : Switching to Product Tab
+2026-08-03 05:00:13,009 : INFO : Clicking Add To Cart
+2026-08-03 05:00:14,179 : INFO : Screenshot Taken
+2026-08-03 05:00:14,180 : INFO : ********** Cart Test Passed **********
+2026-08-03 05:00:17,080 : INFO : ====== WebDriver manager ======
+2026-08-03 05:00:18,051 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 05:00:19,806 : INFO : ********** Login Test Started **********
+2026-08-03 05:00:19,806 : INFO : Opening Daraz Website
+2026-08-03 05:00:27,546 : INFO : Click Login
+2026-08-03 05:00:28,427 : INFO : Entering Email
+2026-08-03 05:00:28,834 : INFO : Entering Password
+2026-08-03 05:00:29,054 : INFO : Click Login Button
+2026-08-03 05:00:29,508 : INFO : Taking Login Screenshot
+2026-08-03 05:00:29,887 : INFO : ********** Login Test Passed **********
+2026-08-03 05:00:32,504 : INFO : ====== WebDriver manager ======
+2026-08-03 05:00:33,494 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-03 05:00:34,720 : INFO : ********** Test Started **********
+2026-08-03 05:00:34,720 : INFO : Opening Daraz Website
+2026-08-03 05:00:35,715 : INFO : Searching Product
+2026-08-03 05:00:43,228 : INFO : Clicking Search Button
+2026-08-03 05:00:48,257 : INFO : Clicking First Product
+2026-08-03 05:01:07,739 : INFO : Getting Product Information
+2026-08-03 05:01:07,913 : INFO : Verifying Product Title
+2026-08-03 05:01:07,913 : INFO : Verifying Product Price
+2026-08-03 05:01:07,914 : INFO : Taking Screenshot
+2026-08-03 05:01:08,070 : INFO : ********** Test Passed **********
+2026-08-04 17:46:47,228 : INFO : ====== WebDriver manager ======
+2026-08-04 17:46:50,271 : INFO : Get LATEST chromedriver version for google-chrome
+2026-08-04 17:46:52,344 : INFO : Get LATEST chromedriver version for google-chrome
+2026-08-04 17:46:54,774 : INFO : WebDriver version 151.0.7922.71 selected
+2026-08-04 17:46:54,787 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.71/win64/chromedriver-win64.zip
+2026-08-04 17:46:54,787 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.71/win64/chromedriver-win64.zip
+2026-08-04 17:46:55,995 : INFO : Driver downloading response is 200
+2026-08-04 17:47:03,818 : INFO : Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71]
+2026-08-04 17:47:06,922 : INFO : ********** Cart Test Started **********
+2026-08-04 17:47:06,923 : INFO : Opening Daraz Website
+2026-08-04 17:47:13,617 : INFO : Searching Product
+2026-08-04 17:47:14,375 : INFO : Clicking Search Button
+2026-08-04 17:47:19,840 : INFO : Clicking First Product
+2026-08-04 17:47:30,138 : INFO : Switching to Product Tab
+2026-08-04 17:47:30,149 : INFO : Clicking Add To Cart
+2026-08-04 17:47:31,119 : INFO : Screenshot Taken
+2026-08-04 17:47:31,120 : INFO : ********** Cart Test Passed **********
+2026-08-04 17:47:33,741 : INFO : ====== WebDriver manager ======
+2026-08-04 17:47:34,889 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-04 17:47:36,081 : INFO : ********** Login Test Started **********
+2026-08-04 17:47:36,081 : INFO : Opening Daraz Website
+2026-08-04 17:47:43,788 : INFO : Click Login
+2026-08-04 17:47:44,629 : INFO : Entering Email
+2026-08-04 17:47:45,049 : INFO : Entering Password
+2026-08-04 17:47:45,228 : INFO : Click Login Button
+2026-08-04 17:47:45,663 : INFO : Taking Login Screenshot
+2026-08-04 17:47:45,908 : INFO : ********** Login Test Passed **********
+2026-08-04 17:47:48,430 : INFO : ====== WebDriver manager ======
+2026-08-04 17:47:49,369 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-04 17:47:51,837 : INFO : ********** Test Started **********
+2026-08-04 17:47:51,837 : INFO : Opening Daraz Website
+2026-08-04 17:48:04,283 : INFO : Searching Product
+2026-08-04 17:48:05,132 : INFO : Clicking Search Button
+2026-08-04 17:48:11,944 : INFO : Clicking First Product
+2026-08-04 17:48:20,867 : INFO : Getting Product Information
+2026-08-04 17:48:21,192 : INFO : Verifying Product Title
+2026-08-04 17:48:21,193 : INFO : Verifying Product Price
+2026-08-04 17:48:21,193 : INFO : Taking Screenshot
+2026-08-04 17:48:21,341 : INFO : ********** Test Passed **********
+2026-08-04 17:52:55,191 : INFO : ====== WebDriver manager ======
+2026-08-04 17:52:56,385 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-04 17:52:58,971 : INFO : ********** Cart Test Started **********
+2026-08-04 17:52:58,971 : INFO : Opening Daraz Website
+2026-08-04 17:53:08,172 : INFO : Searching Product
+2026-08-04 17:53:08,324 : INFO : Clicking Search Button
+2026-08-04 17:53:15,900 : INFO : Clicking First Product
+2026-08-04 17:53:24,851 : INFO : Switching to Product Tab
+2026-08-04 17:53:24,862 : INFO : Clicking Add To Cart
+2026-08-04 17:53:25,878 : INFO : Screenshot Taken
+2026-08-04 17:53:25,879 : INFO : ********** Cart Test Passed **********
+2026-08-04 17:53:28,483 : INFO : ====== WebDriver manager ======
+2026-08-04 17:53:29,601 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-04 17:53:31,414 : INFO : ********** Login Test Started **********
+2026-08-04 17:53:31,414 : INFO : Opening Daraz Website
+2026-08-04 17:53:32,830 : INFO : Click Login
+2026-08-04 17:53:40,292 : INFO : Entering Email
+2026-08-04 17:53:40,745 : INFO : Entering Password
+2026-08-04 17:53:41,113 : INFO : Click Login Button
+2026-08-04 17:53:41,509 : INFO : Taking Login Screenshot
+2026-08-04 17:53:41,777 : INFO : ********** Login Test Passed **********
+2026-08-04 17:53:44,301 : INFO : ====== WebDriver manager ======
+2026-08-04 17:53:45,396 : INFO : Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-08-04 17:53:46,952 : INFO : ********** Test Started **********
+2026-08-04 17:53:46,952 : INFO : Opening Daraz Website
+2026-08-04 17:53:55,699 : INFO : Searching Product
+2026-08-04 17:53:55,904 : INFO : Clicking Search Button
+2026-08-04 17:54:01,796 : INFO : Clicking First Product
+2026-08-04 17:54:10,929 : INFO : Getting Product Information
+2026-08-04 17:54:11,241 : INFO : Verifying Product Title
+2026-08-04 17:54:11,241 : INFO : Verifying Product Price
+2026-08-04 17:54:11,241 : INFO : Taking Screenshot
+2026-08-04 17:54:11,383 : INFO : ********** Test Passed **********
+04-08-2026 07:15:19 PM | INFO | ====== WebDriver manager ======
+04-08-2026 07:15:21 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 07:15:24 PM | INFO | ********** Cart Test Started **********
+04-08-2026 07:15:24 PM | INFO | Opening Daraz Website
+04-08-2026 07:15:36 PM | INFO | Searching Product
+04-08-2026 07:15:36 PM | INFO | Clicking Search Button
+04-08-2026 07:15:43 PM | INFO | Clicking First Product
+04-08-2026 07:16:07 PM | INFO | Switching to Product Tab
+04-08-2026 07:16:07 PM | INFO | Clicking Add To Cart
+04-08-2026 07:16:08 PM | INFO | Screenshot Taken
+04-08-2026 07:16:08 PM | INFO | ********** Cart Test Passed **********
+04-08-2026 07:16:11 PM | INFO | ====== WebDriver manager ======
+04-08-2026 07:16:12 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 07:16:14 PM | INFO | ********** Login Test Started **********
+04-08-2026 07:16:14 PM | INFO | Opening Daraz Website
+04-08-2026 07:16:35 PM | INFO | Click Login
+04-08-2026 07:16:35 PM | INFO | Entering Email
+04-08-2026 07:16:36 PM | INFO | Entering Password
+04-08-2026 07:16:36 PM | INFO | Click Login Button
+04-08-2026 07:16:36 PM | INFO | Taking Login Screenshot
+04-08-2026 07:16:37 PM | INFO | ********** Login Test Passed **********
+04-08-2026 07:16:40 PM | INFO | ====== WebDriver manager ======
+04-08-2026 07:16:41 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 07:16:42 PM | INFO | ========== Search Test Started ==========
+04-08-2026 07:16:42 PM | INFO | Opening Daraz Website
+04-08-2026 07:16:53 PM | INFO | Searching Product: Laptop
+04-08-2026 07:16:54 PM | INFO | Clicking Search Button
+04-08-2026 07:17:00 PM | INFO | Opening First Product
+04-08-2026 07:17:12 PM | INFO | Getting Product Information
+04-08-2026 07:17:12 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 07:17:12 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 07:17:12 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Aeea0798e579e9fe324d8d13454932f91%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Aeea0798e579e9fe324d8d13454932f91%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785849415651&ratingscore=&request_id=eea0798e579e9fe324d8d13454932f91&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 07:17:12 PM | INFO | Search Test Passed
+04-08-2026 07:17:12 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 07:17:12 PM | INFO | Getting Product Information
+04-08-2026 07:17:12 PM | INFO | Verifying Product Title
+04-08-2026 07:17:12 PM | INFO | Verifying Product Price
+04-08-2026 07:17:12 PM | INFO | Taking Screenshot
+04-08-2026 07:17:12 PM | INFO | ********** Test Passed **********
+04-08-2026 07:55:38 PM | INFO | ====== WebDriver manager ======
+04-08-2026 07:55:39 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 07:55:40 PM | INFO | ********** Cart Test Started **********
+04-08-2026 07:55:40 PM | INFO | Opening Daraz Website
+04-08-2026 07:55:41 PM | INFO | Searching Product
+04-08-2026 07:55:50 PM | INFO | Clicking Search Button
+04-08-2026 07:56:00 PM | INFO | Clicking First Product
+04-08-2026 07:56:05 PM | INFO | Switching to Product Tab
+04-08-2026 07:56:05 PM | INFO | Clicking Add To Cart
+04-08-2026 07:56:13 PM | INFO | Screenshot Taken
+04-08-2026 07:56:13 PM | INFO | ********** Cart Test Passed **********
+04-08-2026 07:56:16 PM | INFO | ====== WebDriver manager ======
+04-08-2026 07:56:17 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 07:56:19 PM | INFO | ========== Login Test Started ==========
+04-08-2026 07:56:19 PM | INFO | Opening Daraz
+04-08-2026 07:56:40 PM | INFO | Click Login
+04-08-2026 07:56:40 PM | INFO | Entering Email
+04-08-2026 07:56:41 PM | INFO | Entering Password
+04-08-2026 07:56:41 PM | INFO | Click Login Button
+04-08-2026 07:56:45 PM | INFO | ====== WebDriver manager ======
+04-08-2026 07:56:46 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 07:56:48 PM | INFO | ========== Search Test Started ==========
+04-08-2026 07:56:48 PM | INFO | Opening Daraz Website
+04-08-2026 07:57:01 PM | INFO | Searching Product: Laptop
+04-08-2026 07:57:01 PM | INFO | Clicking Search Button
+04-08-2026 07:57:16 PM | INFO | Opening First Product
+04-08-2026 07:57:24 PM | INFO | Getting Product Information
+04-08-2026 07:57:25 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 07:57:25 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 07:57:25 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ae34071e042af7a06f02cb584a9dc74dd%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ae34071e042af7a06f02cb584a9dc74dd%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785851825380&ratingscore=&request_id=e34071e042af7a06f02cb584a9dc74dd&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 07:57:25 PM | INFO | Search Test Passed
+04-08-2026 07:57:25 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 07:57:25 PM | INFO | Getting Product Information
+04-08-2026 07:57:25 PM | INFO | Verifying Product Title
+04-08-2026 07:57:25 PM | INFO | Verifying Product Price
+04-08-2026 07:57:25 PM | INFO | Taking Screenshot
+04-08-2026 07:57:25 PM | INFO | ********** Test Passed **********
+04-08-2026 08:07:54 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:07:55 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:07:56 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:07:56 PM | INFO | Opening Daraz
+04-08-2026 08:08:08 PM | INFO | Click Login
+04-08-2026 08:08:09 PM | INFO | Entering Email
+04-08-2026 08:08:09 PM | INFO | Entering Password
+04-08-2026 08:08:09 PM | INFO | Click Login Button
+04-08-2026 08:08:10 PM | INFO | Taking Screenshot
+04-08-2026 08:08:10 PM | INFO | Login Successful
+04-08-2026 08:08:10 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 08:12:19 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:12:20 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:12:21 PM | INFO | ********** Cart Test Started **********
+04-08-2026 08:12:21 PM | INFO | Opening Daraz Website
+04-08-2026 08:12:35 PM | INFO | Searching Product
+04-08-2026 08:12:36 PM | INFO | Clicking Search Button
+04-08-2026 08:13:05 PM | INFO | Clicking First Product
+04-08-2026 08:13:21 PM | INFO | Switching to Product Tab
+04-08-2026 08:13:21 PM | INFO | Clicking Add To Cart
+04-08-2026 08:13:21 PM | INFO | Screenshot Taken
+04-08-2026 08:13:21 PM | INFO | ********** Cart Test Passed **********
+04-08-2026 08:13:24 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:13:25 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:13:26 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:13:26 PM | INFO | Opening Daraz
+04-08-2026 08:13:28 PM | INFO | Click Login
+04-08-2026 08:13:53 PM | INFO | Entering Email
+04-08-2026 08:13:53 PM | INFO | Entering Password
+04-08-2026 08:13:54 PM | INFO | Click Login Button
+04-08-2026 08:13:54 PM | INFO | Taking Screenshot
+04-08-2026 08:13:54 PM | INFO | Login Successful
+04-08-2026 08:13:54 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 08:13:57 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:13:58 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:13:59 PM | INFO | ========== Search Test Started ==========
+04-08-2026 08:13:59 PM | INFO | Opening Daraz Website
+04-08-2026 08:14:00 PM | INFO | Searching Product: Laptop
+04-08-2026 08:14:21 PM | INFO | Clicking Search Button
+04-08-2026 08:14:45 PM | INFO | Opening First Product
+04-08-2026 08:15:28 PM | INFO | Getting Product Information
+04-08-2026 08:15:28 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 08:15:28 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 08:15:28 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ac7bbc9b87fee1f8311c8a73fd5a80561%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ac7bbc9b87fee1f8311c8a73fd5a80561%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785852863347&ratingscore=&request_id=c7bbc9b87fee1f8311c8a73fd5a80561&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 08:15:28 PM | INFO | Search Test Passed
+04-08-2026 08:15:28 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 08:15:28 PM | INFO | Getting Product Information
+04-08-2026 08:15:28 PM | INFO | Verifying Product Title
+04-08-2026 08:15:28 PM | INFO | Verifying Product Price
+04-08-2026 08:15:28 PM | INFO | Taking Screenshot
+04-08-2026 08:15:29 PM | INFO | ********** Test Passed **********
+04-08-2026 08:24:39 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:24:40 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:24:42 PM | INFO | ********** Cart Test Started **********
+04-08-2026 08:24:42 PM | INFO | Opening Daraz Website
+04-08-2026 08:25:11 PM | INFO | Searching Product
+04-08-2026 08:25:11 PM | INFO | Clicking Search Button
+04-08-2026 08:25:32 PM | INFO | Clicking First Product
+04-08-2026 08:25:41 PM | INFO | Switching to Product Tab
+04-08-2026 08:25:41 PM | INFO | Clicking Add To Cart
+04-08-2026 08:25:42 PM | INFO | Screenshot Taken
+04-08-2026 08:25:42 PM | INFO | ********** Cart Test Passed **********
+04-08-2026 08:25:44 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:25:45 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:25:47 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:25:47 PM | INFO | Opening Daraz
+04-08-2026 08:25:57 PM | INFO | Click Login
+04-08-2026 08:25:57 PM | INFO | Entering Email
+04-08-2026 08:25:58 PM | INFO | Entering Password
+04-08-2026 08:25:59 PM | INFO | Click Login Button
+04-08-2026 08:25:59 PM | INFO | Taking Screenshot
+04-08-2026 08:25:59 PM | INFO | Login Successful
+04-08-2026 08:25:59 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 08:26:02 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:26:03 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:26:04 PM | INFO | ========== Search Test Started ==========
+04-08-2026 08:26:04 PM | INFO | Opening Daraz Website
+04-08-2026 08:26:05 PM | INFO | Searching Product: Laptop
+04-08-2026 08:26:19 PM | INFO | Clicking Search Button
+04-08-2026 08:26:31 PM | INFO | Opening First Product
+04-08-2026 08:26:42 PM | INFO | Getting Product Information
+04-08-2026 08:26:42 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 08:26:42 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 08:26:42 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ae2db8dc60e94b459da22b063f23e2717%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ae2db8dc60e94b459da22b063f23e2717%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785853582055&ratingscore=&request_id=e2db8dc60e94b459da22b063f23e2717&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 08:26:42 PM | INFO | Search Test Passed
+04-08-2026 08:26:42 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 08:26:42 PM | INFO | Getting Product Information
+04-08-2026 08:26:43 PM | INFO | Verifying Product Title
+04-08-2026 08:26:43 PM | INFO | Verifying Product Price
+04-08-2026 08:26:43 PM | INFO | Taking Screenshot
+04-08-2026 08:26:43 PM | INFO | ********** Test Passed **********
+04-08-2026 08:32:22 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:32:23 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:32:24 PM | INFO | ********** Cart Test Started **********
+04-08-2026 08:32:24 PM | INFO | Opening Daraz Website
+04-08-2026 08:32:36 PM | INFO | Searching Product
+04-08-2026 08:32:37 PM | INFO | Clicking Search Button
+04-08-2026 08:32:50 PM | INFO | Clicking First Product
+04-08-2026 08:33:01 PM | INFO | Switching to Product Tab
+04-08-2026 08:33:01 PM | INFO | Clicking Add To Cart
+04-08-2026 08:33:02 PM | INFO | Screenshot Taken
+04-08-2026 08:33:02 PM | INFO | ********** Cart Test Passed **********
+04-08-2026 08:33:05 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:33:06 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:33:08 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:33:08 PM | INFO | Opening Daraz
+04-08-2026 08:33:25 PM | INFO | Click Login
+04-08-2026 08:33:26 PM | INFO | Entering Email
+04-08-2026 08:33:26 PM | INFO | Entering Password
+04-08-2026 08:33:27 PM | INFO | Click Login Button
+04-08-2026 08:33:27 PM | INFO | Taking Screenshot
+04-08-2026 08:33:27 PM | INFO | Login Successful
+04-08-2026 08:33:27 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 08:33:30 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:33:31 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:33:32 PM | INFO | ========== Search Test Started ==========
+04-08-2026 08:33:32 PM | INFO | Opening Daraz Website
+04-08-2026 08:33:48 PM | INFO | Searching Product: Laptop
+04-08-2026 08:33:48 PM | INFO | Clicking Search Button
+04-08-2026 08:33:55 PM | INFO | Opening First Product
+04-08-2026 08:34:06 PM | INFO | Getting Product Information
+04-08-2026 08:34:06 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 08:34:06 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 08:34:06 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Aa4934ec75eebba23bd398dc7ffb02829%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Aa4934ec75eebba23bd398dc7ffb02829%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785854029791&ratingscore=&request_id=a4934ec75eebba23bd398dc7ffb02829&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 08:34:06 PM | INFO | Search Test Passed
+04-08-2026 08:34:06 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 08:34:06 PM | INFO | Getting Product Information
+04-08-2026 08:34:06 PM | INFO | Verifying Product Title
+04-08-2026 08:34:06 PM | INFO | Verifying Product Price
+04-08-2026 08:34:06 PM | INFO | Taking Screenshot
+04-08-2026 08:34:06 PM | INFO | ********** Test Passed **********
+04-08-2026 08:35:16 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:35:17 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:35:18 PM | INFO | ********** Cart Test Started **********
+04-08-2026 08:35:18 PM | INFO | Opening Daraz Website
+04-08-2026 08:35:18 PM | INFO | Searching Product
+04-08-2026 08:35:38 PM | INFO | Clicking Search Button
+04-08-2026 08:36:40 PM | INFO | Clicking First Product
+04-08-2026 08:37:01 PM | INFO | Switching to Product Tab
+04-08-2026 08:37:01 PM | INFO | Clicking Add To Cart
+04-08-2026 08:37:02 PM | INFO | Screenshot Taken
+04-08-2026 08:37:02 PM | INFO | ********** Cart Test Passed **********
+04-08-2026 08:37:04 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:37:05 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:37:07 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:37:07 PM | INFO | Opening Daraz
+04-08-2026 08:37:21 PM | INFO | Click Login
+04-08-2026 08:37:22 PM | INFO | Entering Email
+04-08-2026 08:37:22 PM | INFO | Entering Password
+04-08-2026 08:37:22 PM | INFO | Click Login Button
+04-08-2026 08:37:23 PM | INFO | Taking Screenshot
+04-08-2026 08:37:23 PM | INFO | Login Successful
+04-08-2026 08:37:23 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 08:37:25 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:37:26 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:37:28 PM | INFO | ========== Search Test Started ==========
+04-08-2026 08:37:28 PM | INFO | Opening Daraz Website
+04-08-2026 08:38:05 PM | INFO | Searching Product: Laptop
+04-08-2026 08:38:05 PM | INFO | Clicking Search Button
+04-08-2026 08:38:15 PM | INFO | Opening First Product
+04-08-2026 08:38:31 PM | INFO | Getting Product Information
+04-08-2026 08:38:31 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 08:38:31 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 08:38:31 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ad06f8c528d56c92ad3f38e610a05d3d1%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ad06f8c528d56c92ad3f38e610a05d3d1%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785854288728&ratingscore=&request_id=d06f8c528d56c92ad3f38e610a05d3d1&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 08:38:31 PM | INFO | Search Test Passed
+04-08-2026 08:38:31 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 08:38:31 PM | INFO | Getting Product Information
+04-08-2026 08:38:31 PM | INFO | Verifying Product Title
+04-08-2026 08:38:31 PM | INFO | Verifying Product Price
+04-08-2026 08:38:31 PM | INFO | Taking Screenshot
+04-08-2026 08:38:31 PM | INFO | ********** Test Passed **********
+04-08-2026 08:49:54 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:49:56 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:49:57 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 08:49:57 PM | INFO | Open Daraz
+04-08-2026 08:49:59 PM | INFO | Search Product
+04-08-2026 08:50:08 PM | INFO | Click Search
+04-08-2026 08:50:17 PM | INFO | Open First Product
+04-08-2026 08:50:37 PM | INFO | Switch New Tab
+04-08-2026 08:50:37 PM | INFO | Click Add To Cart
+04-08-2026 08:50:38 PM | INFO | Open Cart
+04-08-2026 08:50:51 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:50:52 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:50:53 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:50:53 PM | INFO | Opening Daraz
+04-08-2026 08:52:36 PM | INFO | Click Login
+04-08-2026 08:52:39 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:52:40 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:52:42 PM | INFO | ========== Search Test Started ==========
+04-08-2026 08:52:42 PM | INFO | Opening Daraz Website
+04-08-2026 08:53:01 PM | INFO | Searching Product: Laptop
+04-08-2026 08:53:01 PM | INFO | Clicking Search Button
+04-08-2026 08:53:15 PM | INFO | Opening First Product
+04-08-2026 08:53:31 PM | INFO | Getting Product Information
+04-08-2026 08:53:31 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 08:53:31 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 08:53:31 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A9810ffca64b5b75e0a83b001bbfa848c%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A9810ffca64b5b75e0a83b001bbfa848c%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785855186718&ratingscore=&request_id=9810ffca64b5b75e0a83b001bbfa848c&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 08:53:32 PM | INFO | Search Test Passed
+04-08-2026 08:53:32 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 08:53:32 PM | INFO | Getting Product Information
+04-08-2026 08:53:32 PM | INFO | Verifying Product Title
+04-08-2026 08:53:32 PM | INFO | Verifying Product Price
+04-08-2026 08:53:32 PM | INFO | Taking Screenshot
+04-08-2026 08:53:32 PM | INFO | ********** Test Passed **********
+04-08-2026 08:54:19 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:54:20 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:54:21 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 08:54:21 PM | INFO | Open Daraz
+04-08-2026 08:54:36 PM | INFO | Search Product
+04-08-2026 08:54:36 PM | INFO | Click Search
+04-08-2026 08:54:46 PM | INFO | Open First Product
+04-08-2026 08:55:03 PM | INFO | Switch New Tab
+04-08-2026 08:55:03 PM | INFO | Click Add To Cart
+04-08-2026 08:55:05 PM | INFO | Open Cart
+04-08-2026 08:55:18 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:55:19 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:55:21 PM | INFO | ========== Login Test Started ==========
+04-08-2026 08:55:21 PM | INFO | Opening Daraz
+04-08-2026 08:55:33 PM | INFO | Click Login
+04-08-2026 08:55:34 PM | INFO | Entering Email
+04-08-2026 08:55:34 PM | INFO | Entering Password
+04-08-2026 08:55:34 PM | INFO | Click Login Button
+04-08-2026 08:55:34 PM | INFO | Taking Screenshot
+04-08-2026 08:55:35 PM | INFO | Login Successful
+04-08-2026 08:55:35 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 08:55:37 PM | INFO | ====== WebDriver manager ======
+04-08-2026 08:55:38 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 08:55:39 PM | INFO | ========== Search Test Started ==========
+04-08-2026 08:55:39 PM | INFO | Opening Daraz Website
+04-08-2026 08:55:53 PM | INFO | Searching Product: Laptop
+04-08-2026 08:55:53 PM | INFO | Clicking Search Button
+04-08-2026 08:56:08 PM | INFO | Opening First Product
+04-08-2026 08:56:26 PM | INFO | Getting Product Information
+04-08-2026 08:56:26 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 08:56:26 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 08:56:26 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ada05c7aecbfba1a392d3715a4c6adf45%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ada05c7aecbfba1a392d3715a4c6adf45%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785855357805&ratingscore=&request_id=da05c7aecbfba1a392d3715a4c6adf45&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 08:56:26 PM | INFO | Search Test Passed
+04-08-2026 08:56:26 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 08:56:26 PM | INFO | Getting Product Information
+04-08-2026 08:56:26 PM | INFO | Verifying Product Title
+04-08-2026 08:56:26 PM | INFO | Verifying Product Price
+04-08-2026 08:56:26 PM | INFO | Taking Screenshot
+04-08-2026 08:56:26 PM | INFO | ********** Test Passed **********
+04-08-2026 09:01:18 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:01:19 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:01:21 PM | INFO | Cart Test Started
+04-08-2026 09:02:14 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:02:15 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:02:16 PM | INFO | ========== Login Test Started ==========
+04-08-2026 09:02:16 PM | INFO | Opening Daraz
+04-08-2026 09:02:17 PM | INFO | Click Login
+04-08-2026 09:02:30 PM | INFO | Entering Email
+04-08-2026 09:02:30 PM | INFO | Entering Password
+04-08-2026 09:02:30 PM | INFO | Click Login Button
+04-08-2026 09:02:31 PM | INFO | Taking Screenshot
+04-08-2026 09:02:31 PM | INFO | Login Successful
+04-08-2026 09:02:31 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 09:02:34 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:02:35 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:02:36 PM | INFO | ========== Search Test Started ==========
+04-08-2026 09:02:36 PM | INFO | Opening Daraz Website
+04-08-2026 09:02:48 PM | INFO | Searching Product: Laptop
+04-08-2026 09:02:49 PM | INFO | Clicking Search Button
+04-08-2026 09:02:57 PM | INFO | Opening First Product
+04-08-2026 09:03:09 PM | INFO | Getting Product Information
+04-08-2026 09:03:09 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 09:03:09 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 09:03:09 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A42004e75deadc901fb86982494461ef3%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A42004e75deadc901fb86982494461ef3%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785855770854&ratingscore=&request_id=42004e75deadc901fb86982494461ef3&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 09:03:09 PM | INFO | Search Test Passed
+04-08-2026 09:03:09 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 09:03:09 PM | INFO | Getting Product Information
+04-08-2026 09:03:10 PM | INFO | Verifying Product Title
+04-08-2026 09:03:10 PM | INFO | Verifying Product Price
+04-08-2026 09:03:10 PM | INFO | Taking Screenshot
+04-08-2026 09:03:10 PM | INFO | ********** Test Passed **********
+04-08-2026 09:07:18 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:07:19 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:07:21 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 09:07:21 PM | INFO | Open Daraz
+04-08-2026 09:07:21 PM | INFO | Search Product
+04-08-2026 09:07:37 PM | INFO | Click Search
+04-08-2026 09:07:48 PM | INFO | Open First Product
+04-08-2026 09:08:01 PM | INFO | Switch New Tab
+04-08-2026 09:08:01 PM | INFO | Click Add To Cart
+04-08-2026 09:08:02 PM | INFO | Open Cart
+04-08-2026 09:08:17 PM | INFO | Verify Product
+04-08-2026 09:12:04 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:12:05 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:12:07 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 09:12:07 PM | INFO | Open Daraz
+04-08-2026 09:12:23 PM | INFO | Search Product
+04-08-2026 09:12:23 PM | INFO | Click Search
+04-08-2026 09:12:42 PM | INFO | Open First Product
+04-08-2026 09:12:56 PM | INFO | Switch New Tab
+04-08-2026 09:12:56 PM | INFO | Click Add To Cart
+04-08-2026 09:12:56 PM | INFO | Open Cart
+04-08-2026 09:13:29 PM | INFO | Verify Product
+04-08-2026 09:13:32 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:13:34 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:13:36 PM | INFO | ========== Login Test Started ==========
+04-08-2026 09:13:36 PM | INFO | Opening Daraz
+04-08-2026 09:13:50 PM | INFO | Click Login
+04-08-2026 09:13:51 PM | INFO | Entering Email
+04-08-2026 09:13:52 PM | INFO | Entering Password
+04-08-2026 09:13:52 PM | INFO | Click Login Button
+04-08-2026 09:13:52 PM | INFO | Taking Screenshot
+04-08-2026 09:13:52 PM | INFO | Login Successful
+04-08-2026 09:13:52 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 09:13:55 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:13:56 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:13:57 PM | INFO | ========== Search Test Started ==========
+04-08-2026 09:13:57 PM | INFO | Opening Daraz Website
+04-08-2026 09:14:15 PM | INFO | Searching Product: Laptop
+04-08-2026 09:14:16 PM | INFO | Clicking Search Button
+04-08-2026 09:14:41 PM | INFO | Opening First Product
+04-08-2026 09:14:59 PM | INFO | Getting Product Information
+04-08-2026 09:14:59 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 09:14:59 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 09:14:59 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A571240667929b8194b155da7f3c5937c%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A571240667929b8194b155da7f3c5937c%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785856458960&ratingscore=&request_id=571240667929b8194b155da7f3c5937c&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 09:14:59 PM | INFO | Search Test Passed
+04-08-2026 09:14:59 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 09:14:59 PM | INFO | Getting Product Information
+04-08-2026 09:14:59 PM | INFO | Verifying Product Title
+04-08-2026 09:14:59 PM | INFO | Verifying Product Price
+04-08-2026 09:14:59 PM | INFO | Taking Screenshot
+04-08-2026 09:15:00 PM | INFO | ********** Test Passed **********
+04-08-2026 09:38:39 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:38:41 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:38:42 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 09:40:10 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:40:11 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:40:12 PM | INFO | ========== Login Test Started ==========
+04-08-2026 09:40:12 PM | INFO | Opening Daraz
+04-08-2026 09:40:45 PM | INFO | Click Login
+04-08-2026 09:40:45 PM | INFO | Entering Email
+04-08-2026 09:40:46 PM | INFO | Entering Password
+04-08-2026 09:40:46 PM | INFO | Click Login Button
+04-08-2026 09:40:46 PM | INFO | Taking Screenshot
+04-08-2026 09:40:46 PM | INFO | Login Successful
+04-08-2026 09:40:46 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 09:40:49 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:40:50 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:40:51 PM | INFO | ========== Search Test Started ==========
+04-08-2026 09:40:51 PM | INFO | Opening Daraz Website
+04-08-2026 09:40:53 PM | INFO | Searching Product: Laptop
+04-08-2026 09:41:06 PM | INFO | Clicking Search Button
+04-08-2026 09:41:16 PM | INFO | Opening First Product
+04-08-2026 09:41:25 PM | INFO | Getting Product Information
+04-08-2026 09:41:27 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 09:41:27 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 09:41:27 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ac96d6176547b5ef8db06966300bd9815%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ac96d6176547b5ef8db06966300bd9815%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785858069053&ratingscore=&request_id=c96d6176547b5ef8db06966300bd9815&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 09:41:27 PM | INFO | Search Test Passed
+04-08-2026 09:41:27 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 09:41:27 PM | INFO | Getting Product Information
+04-08-2026 09:41:27 PM | INFO | Verifying Product Title
+04-08-2026 09:41:27 PM | INFO | Verifying Product Price
+04-08-2026 09:41:27 PM | INFO | Taking Screenshot
+04-08-2026 09:41:27 PM | INFO | ********** Test Passed **********
+04-08-2026 09:45:43 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:45:44 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:45:45 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 09:47:01 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:47:02 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:47:03 PM | INFO | ========== Login Test Started ==========
+04-08-2026 09:47:03 PM | INFO | Opening Daraz
+04-08-2026 09:47:18 PM | INFO | Click Login
+04-08-2026 09:47:18 PM | INFO | Entering Email
+04-08-2026 09:47:18 PM | INFO | Entering Password
+04-08-2026 09:47:19 PM | INFO | Click Login Button
+04-08-2026 09:47:19 PM | INFO | Taking Screenshot
+04-08-2026 09:47:20 PM | INFO | Login Successful
+04-08-2026 09:47:20 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 09:47:22 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:47:23 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:47:25 PM | INFO | ========== Search Test Started ==========
+04-08-2026 09:47:25 PM | INFO | Opening Daraz Website
+04-08-2026 09:47:51 PM | INFO | Searching Product: Laptop
+04-08-2026 09:47:51 PM | INFO | Clicking Search Button
+04-08-2026 09:48:05 PM | INFO | Opening First Product
+04-08-2026 09:48:28 PM | INFO | Getting Product Information
+04-08-2026 09:48:29 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 09:48:29 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 09:48:29 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A9aa29c33dc9cd3697551b92d38395173%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A9aa29c33dc9cd3697551b92d38395173%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785858475040&ratingscore=&request_id=9aa29c33dc9cd3697551b92d38395173&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 09:48:29 PM | INFO | Search Test Passed
+04-08-2026 09:48:29 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 09:48:29 PM | INFO | Getting Product Information
+04-08-2026 09:48:29 PM | INFO | Verifying Product Title
+04-08-2026 09:48:29 PM | INFO | Verifying Product Price
+04-08-2026 09:48:29 PM | INFO | Taking Screenshot
+04-08-2026 09:48:29 PM | INFO | ********** Test Passed **********
+04-08-2026 09:52:39 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:52:40 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:52:42 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 09:53:22 PM | INFO | ========== Cart Test Passed ==========
+04-08-2026 09:53:25 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:53:26 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:53:27 PM | INFO | ========== Login Test Started ==========
+04-08-2026 09:53:27 PM | INFO | Opening Daraz
+04-08-2026 09:53:28 PM | INFO | Click Login
+04-08-2026 09:53:41 PM | INFO | Entering Email
+04-08-2026 09:53:41 PM | INFO | Entering Password
+04-08-2026 09:53:42 PM | INFO | Click Login Button
+04-08-2026 09:53:43 PM | INFO | Taking Screenshot
+04-08-2026 09:53:43 PM | INFO | Login Successful
+04-08-2026 09:53:43 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 09:53:45 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:53:47 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:53:48 PM | INFO | ========== Search Test Started ==========
+04-08-2026 09:53:48 PM | INFO | Opening Daraz Website
+04-08-2026 09:53:48 PM | INFO | Searching Product: Laptop
+04-08-2026 09:53:57 PM | INFO | Clicking Search Button
+04-08-2026 09:54:08 PM | INFO | Opening First Product
+04-08-2026 09:54:25 PM | INFO | Getting Product Information
+04-08-2026 09:54:25 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 09:54:25 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 09:54:25 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A103ebe13b26c091c915ee188e9b4fbb4%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A103ebe13b26c091c915ee188e9b4fbb4%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785858839778&ratingscore=&request_id=103ebe13b26c091c915ee188e9b4fbb4&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 09:54:26 PM | INFO | Search Test Passed
+04-08-2026 09:54:26 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 09:54:26 PM | INFO | Getting Product Information
+04-08-2026 09:54:26 PM | INFO | Verifying Product Title
+04-08-2026 09:54:26 PM | INFO | Verifying Product Price
+04-08-2026 09:54:26 PM | INFO | Taking Screenshot
+04-08-2026 09:54:26 PM | INFO | ********** Test Passed **********
+04-08-2026 09:57:12 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:57:13 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:57:14 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 09:58:04 PM | INFO | ========== Cart Test Passed ==========
+04-08-2026 09:58:07 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:58:08 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:58:10 PM | INFO | ========== Login Test Started ==========
+04-08-2026 09:58:10 PM | INFO | Opening Daraz
+04-08-2026 09:58:36 PM | INFO | Click Login
+04-08-2026 09:58:37 PM | INFO | Entering Email
+04-08-2026 09:58:37 PM | INFO | Entering Password
+04-08-2026 09:58:38 PM | INFO | Click Login Button
+04-08-2026 09:58:38 PM | INFO | Taking Screenshot
+04-08-2026 09:58:38 PM | INFO | Login Successful
+04-08-2026 09:58:38 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 09:58:41 PM | INFO | ====== WebDriver manager ======
+04-08-2026 09:58:42 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 09:58:43 PM | INFO | ========== Search Test Started ==========
+04-08-2026 09:58:43 PM | INFO | Opening Daraz Website
+04-08-2026 09:58:58 PM | INFO | Searching Product: Laptop
+04-08-2026 09:58:59 PM | INFO | Clicking Search Button
+04-08-2026 09:59:14 PM | INFO | Opening First Product
+04-08-2026 09:59:24 PM | INFO | Getting Product Information
+04-08-2026 09:59:24 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 09:59:24 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 09:59:24 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A3aafee13864a343a63beea7aa706dca6%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A3aafee13864a343a63beea7aa706dca6%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785859141146&ratingscore=&request_id=3aafee13864a343a63beea7aa706dca6&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 09:59:24 PM | INFO | Search Test Passed
+04-08-2026 09:59:24 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 09:59:24 PM | INFO | Getting Product Information
+04-08-2026 09:59:24 PM | INFO | Verifying Product Title
+04-08-2026 09:59:24 PM | INFO | Verifying Product Price
+04-08-2026 09:59:24 PM | INFO | Taking Screenshot
+04-08-2026 09:59:25 PM | INFO | ********** Test Passed **********
+04-08-2026 10:00:30 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:00:31 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:00:33 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 10:01:46 PM | INFO | ========== Cart Test Passed ==========
+04-08-2026 10:01:48 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:01:49 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:01:51 PM | INFO | ========== Login Test Started ==========
+04-08-2026 10:01:51 PM | INFO | Opening Daraz
+04-08-2026 10:02:21 PM | INFO | Click Login
+04-08-2026 10:02:22 PM | INFO | Entering Email
+04-08-2026 10:02:22 PM | INFO | Entering Password
+04-08-2026 10:02:22 PM | INFO | Click Login Button
+04-08-2026 10:02:23 PM | INFO | Taking Screenshot
+04-08-2026 10:02:23 PM | INFO | Login Successful
+04-08-2026 10:02:23 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 10:02:26 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:02:27 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:02:29 PM | INFO | ========== Search Test Started ==========
+04-08-2026 10:02:29 PM | INFO | Opening Daraz Website
+04-08-2026 10:02:44 PM | INFO | Searching Product: Laptop
+04-08-2026 10:02:44 PM | INFO | Clicking Search Button
+04-08-2026 10:03:09 PM | INFO | Opening First Product
+04-08-2026 10:03:30 PM | INFO | Getting Product Information
+04-08-2026 10:03:30 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 10:03:30 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 10:03:30 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A7c5ab52e9fc28813ae9113b621869664%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A7c5ab52e9fc28813ae9113b621869664%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785859374746&ratingscore=&request_id=7c5ab52e9fc28813ae9113b621869664&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 10:03:31 PM | INFO | Search Test Passed
+04-08-2026 10:03:31 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 10:03:31 PM | INFO | Getting Product Information
+04-08-2026 10:03:31 PM | INFO | Verifying Product Title
+04-08-2026 10:03:31 PM | INFO | Verifying Product Price
+04-08-2026 10:03:31 PM | INFO | Taking Screenshot
+04-08-2026 10:03:31 PM | INFO | ********** Test Passed **********
+04-08-2026 10:04:54 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:04:55 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:04:57 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 10:06:16 PM | INFO | ========== Cart Test Passed ==========
+04-08-2026 10:06:19 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:06:20 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:06:21 PM | INFO | ========== Login Test Started ==========
+04-08-2026 10:06:21 PM | INFO | Opening Daraz
+04-08-2026 10:06:40 PM | INFO | Click Login
+04-08-2026 10:06:40 PM | INFO | Entering Email
+04-08-2026 10:06:41 PM | INFO | Entering Password
+04-08-2026 10:06:41 PM | INFO | Click Login Button
+04-08-2026 10:06:41 PM | INFO | Taking Screenshot
+04-08-2026 10:06:42 PM | INFO | Login Successful
+04-08-2026 10:06:42 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 10:06:44 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:06:45 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:06:47 PM | INFO | ========== Search Test Started ==========
+04-08-2026 10:06:47 PM | INFO | Opening Daraz Website
+04-08-2026 10:07:05 PM | INFO | Searching Product: Laptop
+04-08-2026 10:07:05 PM | INFO | Clicking Search Button
+04-08-2026 10:07:23 PM | INFO | Opening First Product
+04-08-2026 10:07:41 PM | INFO | Getting Product Information
+04-08-2026 10:07:41 PM | INFO | Product Title : ASUS X441U Used Laptop | Daraz.com.bd
+04-08-2026 10:07:41 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 10:07:41 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A2559c0c784de8b402de7fc5def712d9e%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A2559c0c784de8b402de7fc5def712d9e%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785859627883&ratingscore=&request_id=2559c0c784de8b402de7fc5def712d9e&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 10:07:41 PM | INFO | Search Test Passed
+04-08-2026 10:07:41 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 10:07:41 PM | INFO | Getting Product Information
+04-08-2026 10:07:42 PM | INFO | Verifying Product Title
+04-08-2026 10:07:42 PM | INFO | Verifying Product Price
+04-08-2026 10:07:42 PM | INFO | Taking Screenshot
+04-08-2026 10:07:42 PM | INFO | ********** Test Passed **********
+04-08-2026 10:10:51 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:10:52 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:10:54 PM | INFO | ========== Product Price Test Started ==========
+04-08-2026 10:12:16 PM | INFO | ========== Product Price Test Passed ==========
+04-08-2026 10:12:49 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:12:51 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:12:52 PM | INFO | ========== Cart Test Started ==========
+04-08-2026 10:13:29 PM | INFO | ========== Cart Test Passed ==========
+04-08-2026 10:13:32 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:13:33 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:13:34 PM | INFO | ========== Login Test Started ==========
+04-08-2026 10:13:34 PM | INFO | Opening Daraz
+04-08-2026 10:13:50 PM | INFO | Click Login
+04-08-2026 10:13:50 PM | INFO | Entering Email
+04-08-2026 10:13:51 PM | INFO | Entering Password
+04-08-2026 10:13:51 PM | INFO | Click Login Button
+04-08-2026 10:13:51 PM | INFO | Taking Screenshot
+04-08-2026 10:13:52 PM | INFO | Login Successful
+04-08-2026 10:13:52 PM | INFO | ========== Login Test Passed ==========
+04-08-2026 10:13:54 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:13:55 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:13:57 PM | INFO | ========== Product Price Test Started ==========
+04-08-2026 10:14:42 PM | INFO | ========== Product Price Test Passed ==========
+04-08-2026 10:14:45 PM | INFO | ====== WebDriver manager ======
+04-08-2026 10:14:46 PM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+04-08-2026 10:14:47 PM | INFO | ========== Search Test Started ==========
+04-08-2026 10:14:47 PM | INFO | Opening Daraz Website
+04-08-2026 10:15:23 PM | INFO | Searching Product: Laptop
+04-08-2026 10:15:23 PM | INFO | Clicking Search Button
+04-08-2026 10:15:45 PM | INFO | Opening First Product
+04-08-2026 10:16:07 PM | INFO | Getting Product Information
+04-08-2026 10:16:07 PM | INFO | Product Title : ASUS X441U Used Laptop
+04-08-2026 10:16:07 PM | INFO | Product Price : \u09f3 17,999
+04-08-2026 10:16:07 PM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253Ae4167889bb046272fb7c4f5602710b50%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3Ae4167889bb046272fb7c4f5602710b50%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785860128388&ratingscore=&request_id=e4167889bb046272fb7c4f5602710b50&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+04-08-2026 10:16:07 PM | INFO | Search Test Passed
+04-08-2026 10:16:07 PM | INFO | ========== Search Test Finished ==========
+04-08-2026 10:16:07 PM | INFO | Getting Product Information
+04-08-2026 10:16:07 PM | INFO | Verifying Product Title
+04-08-2026 10:16:07 PM | INFO | Verifying Product Price
+04-08-2026 10:16:07 PM | INFO | Taking Screenshot
+04-08-2026 10:16:07 PM | INFO | ********** Test Passed **********
+05-08-2026 02:13:54 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:13:56 AM | INFO | Get LATEST chromedriver version for google-chrome
+05-08-2026 02:13:59 AM | INFO | Get LATEST chromedriver version for google-chrome
+05-08-2026 02:14:01 AM | INFO | WebDriver version 151.0.7922.71 selected
+05-08-2026 02:14:02 AM | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.71/win64/chromedriver-win64.zip
+05-08-2026 02:14:02 AM | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.71/win64/chromedriver-win64.zip
+05-08-2026 02:14:03 AM | INFO | Driver downloading response is 200
+05-08-2026 02:14:33 AM | INFO | Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71]
+05-08-2026 02:14:37 AM | INFO | ========== Cart Test Started ==========
+05-08-2026 02:14:57 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:14:58 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:15:22 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:15:23 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:15:24 AM | INFO | ========== Cart Test Started ==========
+05-08-2026 02:15:47 AM | INFO | ========== Cart Test Passed ==========
+05-08-2026 02:15:49 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:15:50 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:15:52 AM | INFO | ========== Login Test Started ==========
+05-08-2026 02:15:52 AM | INFO | Opening Daraz
+05-08-2026 02:15:59 AM | INFO | Click Login
+05-08-2026 02:16:00 AM | INFO | Entering Email
+05-08-2026 02:16:00 AM | INFO | Entering Password
+05-08-2026 02:16:00 AM | INFO | Click Login Button
+05-08-2026 02:16:01 AM | INFO | Taking Screenshot
+05-08-2026 02:16:01 AM | INFO | Login Successful
+05-08-2026 02:16:01 AM | INFO | ========== Login Test Passed ==========
+05-08-2026 02:16:03 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:16:05 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:16:06 AM | INFO | ========== Product Price Test Started ==========
+05-08-2026 02:16:29 AM | INFO | ========== Product Price Test Passed ==========
+05-08-2026 02:16:31 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:16:32 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:16:33 AM | INFO | ========== Search Test Started ==========
+05-08-2026 02:16:33 AM | INFO | Opening Daraz Website
+05-08-2026 02:16:39 AM | INFO | Searching Product: Laptop
+05-08-2026 02:16:40 AM | INFO | Clicking Search Button
+05-08-2026 02:16:50 AM | INFO | Opening First Product
+05-08-2026 02:17:00 AM | INFO | Getting Product Information
+05-08-2026 02:17:01 AM | INFO | Product Title : ASUS X441U Used Laptop
+05-08-2026 02:17:01 AM | INFO | Product Price : \u09f3 17,999
+05-08-2026 02:17:01 AM | INFO | Product URL : https://www.daraz.com.bd/products/asus-x441u-i1586346345-s12689911768.html?c=&channelLpJumpArgs=&clickTrackInfo=query%253ALaptop%253Bnid%253A1586346345%253Bsrc%253ALazadaMainSrp%253Brn%253A437196d513a469fe8417cadd4b89172a%253Bregion%253Abd%253Bsku%253A1586346345_BD%253Bprice%253A17999%253Bclient%253Adesktop%253Bsupplier_id%253A700950896597%253Bsession_id%253A%253Bbiz_source%253Ahttps%253A%252F%252Fwww.daraz.com.bd%252F%253Bslot%253A0%253Butlog_bucket_id%253A470687%253Basc_category_id%253A57%253Bitem_id%253A1586346345%253Bsku_id%253A12689911768%253Bshop_id%253A731291%253BtemplateInfo%253A&freeshipping=0&fs_ab=1&fuse_fs=&lang=en&location=Chattogram&price=17999&priceCompare=skuId%3A12689911768%3Bsource%3Alazada-search-voucher%3Bsn%3A437196d513a469fe8417cadd4b89172a%3BoriginPrice%3A1799900%3BdisplayPrice%3A1799900%3BisGray%3Afalse%3BsinglePromotionId%3A-1%3BsingleToolCode%3A-1%3BvoucherPricePlugin%3A0%3Btimestamp%3A1785874601877&ratingscore=&request_id=437196d513a469fe8417cadd4b89172a&review=&sale=0&search=1&source=search&spm=a2a0e.searchlist.list.0&stock=1
+05-08-2026 02:17:01 AM | INFO | Search Test Passed
+05-08-2026 02:17:01 AM | INFO | ========== Search Test Finished ==========
+05-08-2026 02:17:01 AM | INFO | Getting Product Information
+05-08-2026 02:17:01 AM | INFO | Verifying Product Title
+05-08-2026 02:17:01 AM | INFO | Verifying Product Price
+05-08-2026 02:17:01 AM | INFO | Taking Screenshot
+05-08-2026 02:17:01 AM | INFO | ********** Test Passed **********
+05-08-2026 02:17:24 AM | INFO | ====== WebDriver manager ======
+05-08-2026 02:17:25 AM | INFO | Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\151.0.7922.71\chromedriver-win64/chromedriver.exe] found in cache by browser version
+05-08-2026 02:17:26 AM | INFO | ========== Product Price Test Started ==========
+05-08-2026 02:17:49 AM | INFO | ========== Product Price Test Passed ==========

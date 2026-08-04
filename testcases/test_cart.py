@@ -8,32 +8,26 @@ logger = LogGen.loggen()
 
 def test_add_to_cart(driver):
 
-    logger.info("********** Cart Test Started **********")
+    logger.info("========== Cart Test Started ==========")
 
     cart = CartPage(driver)
 
-    logger.info("Opening Daraz Website")
     cart.open()
 
-    logger.info("Searching Product")
     cart.search_product(ReadConfig.get_product())
 
-    logger.info("Clicking Search Button")
     cart.click_search()
 
-    logger.info("Clicking First Product")
     cart.click_first_product()
 
-    logger.info("Switching to Product Tab")
     cart.switch_to_new_tab()
 
-    logger.info("Clicking Add To Cart")
-    cart.click_add_to_cart()
+    product_name = cart.get_product_name()
 
-    print("Product added to cart successfully.")
+    cart.click_add_to_cart()
 
     cart.take_screenshot("screenshots/cart.png")
 
-    logger.info("Screenshot Taken")
+    assert product_name != ""
 
-    logger.info("********** Cart Test Passed **********")
+    logger.info("========== Cart Test Passed ==========")

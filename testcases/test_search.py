@@ -8,21 +8,45 @@ logger = LogGen.loggen()
 
 def test_search(driver):
 
-    logger.info("********** Test Started **********")
+    logger.info("========== Search Test Started ==========")
 
     home = HomePage(driver)
 
     logger.info("Opening Daraz Website")
     home.open()
 
-    logger.info("Searching Product")
-    home.search_product(ReadConfig.get_product())
+    product = ReadConfig.get_product()
+
+    logger.info(f"Searching Product: {product}")
+    home.search_product(product)
 
     logger.info("Clicking Search Button")
     home.click_search()
 
-    logger.info("Clicking First Product")
+    logger.info("Opening First Product")
     home.click_first_product()
+
+    logger.info("Getting Product Information")
+
+    product_title = home.get_product_title()
+    product_price = home.get_product_price()
+    product_url = home.get_current_url()
+
+    print(f"\nProduct Title : {product_title}")
+    print(f"Product Price : {product_price}")
+    print(f"Product URL   : {product_url}")
+
+    logger.info(f"Product Title : {product_title}")
+    logger.info(f"Product Price : {product_price}")
+    logger.info(f"Product URL : {product_url}")
+
+    home.take_screenshot("screenshots/search_result.png")
+
+    assert product_title != "", "Product title is empty."
+    assert product_price != "", "Product price is empty."
+
+    logger.info("Search Test Passed")
+    logger.info("========== Search Test Finished ==========")
 
     logger.info("Getting Product Information")
 
